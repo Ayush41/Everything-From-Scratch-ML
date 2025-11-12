@@ -48,3 +48,13 @@ Examples:
 - Spam vs. Non-Spam emails  
 - Disease detection (positive/negative)  
 - Image recognition (cat/dog)
+
+
+Algorithms to be covered:
+- Logistic Regression  
+- K-Nearest Neighbors (KNN)  
+- Decision Trees & Random Forests  
+- Naive Bayes  
+- Support Vector Machines (SVM)
+
+---
