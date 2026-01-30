@@ -1,8 +1,8 @@
 # 📄 Research Paper: Comparative Analysis of ML & Statistical Models for CO2 Forecasting
 
 **Project Status:** 🟢 Active / Experimentation Phase  
-**Research Lead:** [Your Name]  
-**Supervisor/Mentor:** [Professor's Name]  
+**Research Lead:** Ayush Raj Bhatt
+**Supervisor/Mentor:** 
 **Topic:** Time-Series Forecasting of Global Greenhouse Gas Emissions (1970–2030)
 
 ---
