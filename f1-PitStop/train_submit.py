@@ -166,13 +166,8 @@ def train_and_predict(train, test, features):
             early_stopping_rounds=50,
             verbose_eval=False,
         )
-        best_it = getattr(xgb_model, "best_iteration", None)
-        if best_it is None:
-            oof_preds_xgb[val_idx] = xgb_model.predict(dval)
-            test_preds_xgb += xgb_model.predict(xgb.DMatrix(X_test)) / cv.n_splits
-        else:
-            oof_preds_xgb[val_idx] = xgb_model.predict(dval, iteration_range=(0, best_it + 1))
-            test_preds_xgb += xgb_model.predict(xgb.DMatrix(X_test), iteration_range=(0, best_it + 1)) / cv.n_splits
+        oof_preds_xgb[val_idx] = xgb_model.predict(dval, ntree_limit=xgb_model.best_ntree_limit)
+        test_preds_xgb += xgb_model.predict(xgb.DMatrix(X_test), ntree_limit=xgb_model.best_ntree_limit) / cv.n_splits
 
         lgb_model = lgb.LGBMClassifier(
             objective="binary",
@@ -193,7 +188,8 @@ def train_and_predict(train, test, features):
             y_train,
             eval_set=[(X_val, y_val)],
             eval_metric="auc",
-            callbacks=[lgb.early_stopping(50), lgb.log_evaluation(0)],
+            early_stopping_rounds=50,
+            verbose=False,
         )
         oof_preds_lgb[val_idx] = lgb_model.predict_proba(X_val)[:, 1]
         test_preds_lgb += lgb_model.predict_proba(X_test)[:, 1] / cv.n_splits
@@ -202,7 +198,7 @@ def train_and_predict(train, test, features):
         fold_scores.append(fold_score)
         print(f"  XGB valid AUC: {roc_auc_score(y_val, oof_preds_xgb[val_idx]):.5f}")
         print(f"  LGB valid AUC: {roc_auc_score(y_val, oof_preds_lgb[val_idx]):.5f}")
-        print(f"  Blend valid AUC: {fold_score:.5f}")
+        print(f"  Blend valid AUC: {fold_score:.5f}\n")
 
     blended_test_preds = 0.5 * test_preds_xgb + 0.5 * test_preds_lgb
     oof_blend = 0.5 * oof_preds_xgb + 0.5 * oof_preds_lgb
@@ -228,3 +224,9 @@ def main():
 
 if __name__ == "__main__":
     main()
+'''
+with open('train_submit.py', 'w') as f:
+    f.write(content)
+print('wrote', len(content), 'chars')
+PY
+'''

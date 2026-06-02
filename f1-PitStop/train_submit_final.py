@@ -161,24 +161,24 @@ def train_and_predict(train, test, features):
         xgb_model = xgb.train(
             params_xgb,
             dtrain,
-            num_boost_round=1000,
+            num_boost_round=250,
             evals=[(dtrain, "train"), (dval, "valid")],
-            early_stopping_rounds=50,
+            early_stopping_rounds=20,
             verbose_eval=False,
         )
-        best_it = getattr(xgb_model, "best_iteration", None)
-        if best_it is None:
+        best_ntree_limit = xgb_model.best_iteration + 1 if xgb_model.best_iteration is not None else None
+        if best_ntree_limit is None:
             oof_preds_xgb[val_idx] = xgb_model.predict(dval)
             test_preds_xgb += xgb_model.predict(xgb.DMatrix(X_test)) / cv.n_splits
         else:
-            oof_preds_xgb[val_idx] = xgb_model.predict(dval, iteration_range=(0, best_it + 1))
-            test_preds_xgb += xgb_model.predict(xgb.DMatrix(X_test), iteration_range=(0, best_it + 1)) / cv.n_splits
+            oof_preds_xgb[val_idx] = xgb_model.predict(dval, iteration_range=(0, best_ntree_limit))
+            test_preds_xgb += xgb_model.predict(xgb.DMatrix(X_test), iteration_range=(0, best_ntree_limit)) / cv.n_splits
 
         lgb_model = lgb.LGBMClassifier(
             objective="binary",
             boosting_type="gbdt",
             learning_rate=0.05,
-            n_estimators=1000,
+            n_estimators=250,
             num_leaves=31,
             colsample_bytree=0.75,
             subsample=0.8,
@@ -193,7 +193,10 @@ def train_and_predict(train, test, features):
             y_train,
             eval_set=[(X_val, y_val)],
             eval_metric="auc",
-            callbacks=[lgb.early_stopping(50), lgb.log_evaluation(0)],
+            callbacks=[
+                lgb.early_stopping(stopping_rounds=50),
+                lgb.log_evaluation(period=0),
+            ],
         )
         oof_preds_lgb[val_idx] = lgb_model.predict_proba(X_val)[:, 1]
         test_preds_lgb += lgb_model.predict_proba(X_test)[:, 1] / cv.n_splits
@@ -202,7 +205,7 @@ def train_and_predict(train, test, features):
         fold_scores.append(fold_score)
         print(f"  XGB valid AUC: {roc_auc_score(y_val, oof_preds_xgb[val_idx]):.5f}")
         print(f"  LGB valid AUC: {roc_auc_score(y_val, oof_preds_lgb[val_idx]):.5f}")
-        print(f"  Blend valid AUC: {fold_score:.5f}")
+        print(f"  Blend valid AUC: {fold_score:.5f}\n")
 
     blended_test_preds = 0.5 * test_preds_xgb + 0.5 * test_preds_lgb
     oof_blend = 0.5 * oof_preds_xgb + 0.5 * oof_preds_lgb
