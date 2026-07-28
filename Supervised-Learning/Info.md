@@ -2,13 +2,7 @@
 
 Welcome to the **Supervised Learning** section of the **Everything-From-Scratch-ML** repository!  
 This folder focuses on implementing and understanding **Supervised Machine Learning algorithms** — from mathematical intuition to coding them **completely from scratch** (no scikit-learn shortcuts 🚫).
-
----
-
-## 📘 What is Supervised Learning?
-
-**Supervised Learning** is a type of machine learning where the model learns from **labeled data**.  
-That means each training example includes **input features (X)** and a **target output (y)**.  
+ (X)** and a **target output (y)**.  
 The goal is for the model to **learn a mapping function** from inputs → outputs, and make accurate predictions on unseen data.
 
 Formally:
