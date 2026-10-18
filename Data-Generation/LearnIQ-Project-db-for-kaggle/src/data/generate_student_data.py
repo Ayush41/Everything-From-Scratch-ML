@@ -21,7 +21,7 @@ import pandas as pd
 # ============================================================
 
 RANDOM_SEED = 42
-N_STUDENTS = 1000
+N_STUDENTS = 5500
 TOPICS_PER_STUDENT = 8
 
 OUTPUT_DIR = (
