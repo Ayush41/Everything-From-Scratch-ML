@@ -1,0 +1,1011 @@
+student_id,age,grade_level,previous_marks,attendance_pct,study_hours_per_week,study_days_per_week,study_consistency_pct,sleep_hours_per_night,quiz_average,assignment_average,missed_assignments,average_attempts,study_frequency,learning_style,internet_access,final_marks,passed,performance_category,risk_level
+STU00630,17.0,Year 1,39.6,60.7,1.9,1,80.9,7.2,52.6,40.3,3,5,low,Practice,Yes,33.0,0,Poor,High
+STU00789,17.0,Year 1,55.2,93.8,3.5,1,83.4,7.3,45.2,75.7,3,2,Low,Visual, YES,56.8,1,Average,Low
+STU00685,21.0,Year 2,71.4,91.2,2.6,1,,8.0,58.7,61.7,2,2,Low,Auditory,yes,63.5,1,Good,Low
+STU00517,22.0,Year 1,75.9,93.0,7.4,0,74.5,4.5,71.2,60.6,3,1,Low,Visual,Yes,66.6,1,Good,Low
+STU00530,21.0,Year 3,76.1,90.4,8.3,2,47.8,7.8,72.7,56.0,2,2,Low ,Visual,Yes,63.6,1,Good,low
+STU00658,19.0,Year 1,86.3,100.0,4.0,0,77.4,6.8,80.6,72.1,3,3, LOW, READING,No,74.5,1,Good,Low
+STU00553,18.0,Year 2,83.1,79.0,5.8,2,79.5,9.3,60.0,61.9,2,4,Low,Visual,Yes,70.8,1,Good,Low
+STU00532,23.0,Year 2,60.2,76.0,1.6,0,84.5,6.8,53.1,45.1,3,4,Low,Reading,Yes,51.3,1,Average,Medium
+STU00322,17.0,Year 2,86.5,84.4,1.8,1,92.5,,64.3,58.5,4,1,Low,Auditory,no,60.8,1,good,Low
+STU00071,,Year 2,71.8,92.2,7.5,1,68.8,8.1,49.7,62.7,1,1,Low,Visual,No,75.3,1,Excellent,Low
+STU00838,24.0,Year 2,69.9,65.0,2.1,1,81.7,6.8,53.6,70.7,3,2,Low,visual,Yes,59.4,1,Average,Low 
+STU00454,20.0,Year 4,82.9,90.7,7.5,1,67.2,7.9,67.9,65.0,1,5,Low,Auditory,Yes,80.8,1,Excellent,Low
+STU00997,19.0,Year 2,62.9,78.6,7.0,2,64.0,5.9,61.3,47.4,5,6,Low,Reading,Yes,52.7,1,Average,MEDIUM
+STU00669,17.0,Year 2,75.6,77.1,6.3,3,64.5,6.4,78.3,47.7,2,4,Medium,Reading ,Yes,52.2,1,Average,Medium
+STU00248,18.0,Year 2,56.9,63.1,6.2,3,66.4,6.5,61.4,49.3,1,3,Medium,Reading ,Yes,65.3,1,Good,Low
+STU00614,21.0,Year 3,47.2,69.4,4.3,1,70.5,8.5,21.2,41.9,2,2,Low,Practice,Yes,30.9,0,Poor,High
+STU00845,20.0,Year 3,68.6,81.5,9.0,2,55.0,6.3,47.9,69.5,0,2,Low,Practice,Yes,67.5,1,Good, LOW
+STU00705,17.0,Year 2,75.4,82.0,7.8,4,81.8,7.5,82.9,69.6,0,1,medium,practice,No ,78.4,1,Excellent,Low
+STU00299,18.0,Year 2,76.3,100.0,2.0,1,59.7,4.6,38.9,58.3,4,2,Low, PRACTICE,Yes,59.9,1,Average,Low
+STU00102,22.0,Year 1,90.3,91.6,2.0,1,20.7,8.8,58.8,52.0,3,2,Low ,Reading,Yes,48.5,1,Average,Medium
+STU00903,23.0,Year 3,79.2,91.7,13.5,5,80.7,5.2,64.3,85.0,1,1,High,Auditory ,Yes,88.1,1,Excellent,Low
+STU00920,20.0,Year 4,44.1,90.6,6.0,3,,6.4,46.9,55.3,0,6,Medium,Visual,Yes,46.0,1,AVERAGE,Medium
+STU00214,17.0,Year 4,57.9,70.6,13.0,3,54.8,6.5,45.0,60.7,1,3,Medium,Practice,Yes,62.1,1,Good,Low
+STU00238,19.0,Year 1,52.3,73.6,4.8,0,60.0,7.6,42.6,69.0,0,2,Low, PRACTICE,Yes,67.6,1,Good,Low 
+STU00596,18.0,Year 2,69.9,85.0,8.1,1,74.6,8.9,70.4,51.6,2,2,Low,Visual,Yes,65.8,1,GOOD,Low
+STU00282,19.0,Year 3,69.2,94.4,2.9,0,63.0,8.9,70.3,68.0,2,2,Low,Reading,Yes,71.6,1,Good,Low 
+STU00871,19.0,Year 2,59.7,86.4,4.6,1,70.2,6.3,49.1,61.6,0,4,Low,Auditory,Yes,59.6,1,Average,Low
+STU00287,24.0,Year 2,95.8,100.0,4.9,3,84.5,6.7,77.3,69.0,2,4,Medium,Reading,Yes,67.0,1,Good,Low
+STU00923,17.0,Year 3,66.2,77.4,4.1,1,73.4,6.3,49.1,73.4,5,4,Low,Practice,yes,55.8,1,Average,Low
+STU00888,17.0,Year 1,66.0,99.1,9.1,5,69.2,9.6,63.9,73.6,2,1,High,Practice,Yes ,70.5,1,Good,Low
+STU00465,20.0,Year 3,55.2,95.2,4.9,2,89.4,5.7,48.7,66.4,2,2,Low,Visual,Yes,60.6,1,Good,Low
+STU00797,23.0,Year 3,75.2,74.2,4.1,3,97.4,5.6,68.2,60.0,2,2, Medium ,Reading,Yes,62.8,1,Good,Low
+STU00097,24.0,Year 1,57.5,,1.4,0,70.0,,48.2,73.5,3,1,Low,Practice,Yes,53.6,1,Average,Medium
+STU00245,22.0,Year 3,44.1,87.6,11.1,5,86.4,7.3,49.9,62.4,2,2,High,visual,Yes,53.0,1,Average,Medium
+STU00890,18.0,Year 1,58.1,68.7,4.0,4,85.8,8.9,56.0,45.3,1,2,Medium,reading,Yes,49.9,1,Average,Medium
+STU00077,20.0,Year 3,68.6,83.1,8.9,4,100.0,4.0,51.3,67.4,0,3,medium,Visual,Yes,58.9,1,Average,Low
+STU00902,23.0,Year 3,74.1,59.7,4.0,0,82.5,8.1,65.4,62.4,2,1,Low,Visual,Yes,65.0,1,Good,Low
+STU00210,18.0,Year 1,53.8,83.2,0.9,0,88.4,6.9,51.8,49.1,3,2,Low,Visual,Yes,44.8,1,Average,Medium
+STU00260,24.0,Year 4,59.5,,4.7,4,89.3,6.7,43.8,53.4,3,2,Medium,Practice,Yes,55.0,1,Average,Low
+STU00159,23.0,Year 2,78.5,79.8,1.8,2,71.0,8.0,31.5,56.0,1,4, LOW,Practice,Yes,60.6,1,Good,low
+STU00740,19.0,Year 2,42.8,83.6,5.3,2,79.6,7.6,49.4,46.3,2,3,Low,Practice,Yes,59.2,1,Average,Low
+STU00433,18.0,Year 3,50.4,63.4,4.3,1,58.6,6.5,29.9,44.2,2,2,Low,Reading,Yes,52.3,1,Average,Medium
+STU00332,23.0,Year 4,65.1,92.3,9.0,4,79.6,5.7,67.5,75.1,2,1,Medium,Visual,Yes,68.2,1,Good,Low
+STU00957,17.0,Year 3,52.0,70.8,6.7,3,66.9,6.4,45.3,55.8,0,3,Medium,Visual,Yes,56.7,1,Average,Low
+STU00315,18.0,Year 4,52.3,73.7,12.1,5,78.8,6.4,60.9,55.0,2,4,High,Practice,Yes,70.2,1, GOOD,Low
+STU00295,22.0,Year 4,39.7,51.5,3.2,1,,7.0,15.6,20.8,3,3,Low,Visual,Yes,26.7,0,Poor,High
+STU00383,24.0,Year 2,38.7,81.8,1.7,0,77.4,7.8,32.9,39.3,1,2,Low,Practice,Yes,46.9,1,Average,Medium
+STU00389,24.0,Year 4,78.5,100.0,7.9,3,46.9,7.3,73.5,76.4,2,3,Medium,Reading,Yes,79.3,1,Excellent,Low
+STU00576,19.0,Year 2,83.0,83.3,4.1,2,96.4,6.1,44.7,51.0,2,1,Low,Reading,Yes,59.5,1,Average,Low
+STU00880,24.0,Year 3,66.0,73.7,4.4,3,36.5,7.8,50.1,49.7,2,1,Medium,Auditory,Yes,59.4,1,Average,Low
+STU00443,17.0,Year 2,56.4,75.9,12.8,3,75.0,6.3,57.3,70.0,1,4,Medium,Practice,Yes,65.2,1,Good,Low
+STU00722,22.0,Year 2,53.3,,8.0,3,91.0,8.2,52.0,61.0,0,1,Medium, READING,Yes,76.7,1,Excellent,Low
+STU00060,20.0,Year 4,84.5,100.0,2.1,2,59.4,6.9,59.4,69.8,3,5,Low,Visual,Yes,73.1,1,Good,Low
+STU00679,21.0,Year 1,,95.8,16.4,3,93.9,,86.8,77.9,2,3,Medium,Visual,Yes,76.6,1,Excellent,Low
+STU00371,17.0,Year 2,41.5,78.2,5.1,2,,6.3,59.4,43.9,1,4,Low,Practice,Yes,59.2,1,Average,Low
+STU00483,18.0,Year 4,43.1,61.8,4.6,1,26.4,7.0,32.6,39.0,3,5,Low,Practice,Yes,35.6,0,Poor,High
+STU00382,20.0,Year 3,78.5,73.3,2.7,3,62.8,7.0,38.5,50.5,0,2,Medium,Visual,Yes,62.7,1,Good,Low
+STU00055,22.0,Year 1,69.7,76.1,5.0,2,66.4,6.4,45.6,54.3,1,3,Low,Visual,Yes,63.0,1,Good,Low
+STU00024,21.0,Year 3,51.8,81.8,1.6,1,48.9,8.0,33.5,53.7,3,2,Low,Reading,No,64.4,1,Good,Low
+STU00031,21.0,Year 2,33.6,53.3,6.4,1,57.8,8.4,27.6,45.3,4,4,Low, PRACTICE,Yes,33.9,0,Poor,High
+STU00881,17.0,Year 4,70.2,91.5,3.8,3,46.7,6.4,51.2,66.3,2,3,medium,Practice,Yes,61.4,1,Good,Low
+STU00431,18.0,Year 3,33.1,57.1,6.8,1,,7.0,38.9,23.7,2,2,Low ,Reading,Yes,31.8,0,Poor,High
+STU00011,20.0,Year 1,75.9,81.8,3.9,2,76.2,6.6,56.1,60.4,3,2,Low,Practice,Yes,78.1,1,Excellent,Low
+STU00657,17.0,Year 1,62.5,61.2,7.4,4,72.2,8.4,46.3,45.6,1,3,Medium,Auditory,Yes,63.2,1,Good,Low
+STU00814,24.0,Year 1,57.3,74.6,1.6,1,67.8,6.1,55.9,65.6,1,4,Low,Reading,Yes,66.0,1,Good,Low
+STU00484,19.0,Year 1,67.2,77.7,3.0,1,97.2,6.1,53.6,54.0,3,3,Low,Reading,No,64.2,1,Good,low
+STU00544,20.0,Year 4,71.0,59.7,4.8,3,29.9,6.9,41.4,38.9,1,2,Medium,Practice,Yes,45.2,1,Average,Medium
+STU00200,18.0,Year 3,69.4,69.1,6.5,1,90.5,6.1,52.6,69.0,3,2,Low,Practice,Yes,62.6,1,Good,Low
+STU00502,17.0,Year 2,57.5,46.9,5.7,3,65.7,5.3,46.6,54.3,1,4,Medium,Practice,Yes,60.0,1,Good,Medium
+STU00941,22.0,Year 4,71.3,83.4,6.8,3,,6.8,72.5,38.2,1,2,Medium,practice,Yes,65.3,1,Good,Low
+STU00108,18.0,Year 1,42.4,66.4,6.1,1,82.6,7.8,70.8,58.6,3,1,low,Reading,Yes,67.4,1,Good,low
+STU00219,19.0,Year 3,45.7,68.5,5.0,0,32.6,6.3,32.7,38.4,5,2,Low,Visual,Yes,31.1,0,Poor,High
+STU00926,18.0,Year 3,50.1,,3.5,2,50.6,5.9,55.0,59.7,1,1,Low,Auditory,Yes,56.4,1,Average,Low
+STU00175,,Year 3,62.0,90.7,7.8,4,39.4,6.7,52.8,39.3,0,3,Medium,Reading,Yes,66.4,1,Good,Low
+STU00724,20.0,Year 1,35.0,76.6,6.0,2,69.1,5.7,30.0,38.5,6,2,Low,Visual,Yes,39.5,0,Poor,High
+STU00882,18.0,Year 1,62.9,84.7,9.4,4,54.3,,41.1,41.8,4,3,Medium,Reading, YES,57.8,1,Average,Low
+STU00934,20.0,Year 2,58.1,63.1,5.7,0,72.8,6.5,40.4,37.5,3,3,Low,Visual,Yes,50.0,1,Average,Medium
+STU00395,20.0,Year 2,69.2,70.2,3.0,3,86.8,7.3,65.5,58.6,3,2,Medium,Visual,Yes,70.0,1,Good,Low
+STU00040,20.0,Year 2,60.4,92.0,7.6,4,84.2,3.5,45.9,54.3,0,2,Medium,Practice,Yes,65.7,1,Good,Low
+STU00834,21.0,Year 1,56.4,67.5,3.2,1,87.7,6.6,,60.3,0,3,Low,Reading,Yes,55.5,1,AVERAGE,Low
+STU00774,,Year 4,65.6,65.9,3.9,1,52.5,5.7,47.0,44.8,1,2,Low,Visual,Yes,46.7,1,Average,Medium
+STU00352,23.0,Year 4,68.0,74.1,12.3,5,79.5,5.6,66.8,69.9,1,4,High ,Practice,Yes,72.1,1,Good,Low
+STU00067,22.0,Year 1,65.0,71.5,2.7,1,88.9,8.1,56.4,54.4,4,2, LOW,Visual ,Yes,49.1,1,Average,Medium
+STU00278,17.0,Year 2,64.5,89.9,4.1,3,40.6,7.2,47.6,45.8,1,2,Medium,Practice,Yes,64.8,1,Good,Low
+STU00068,24.0,Year 1,82.9,99.7,5.0,1,94.7,5.6,67.6,67.8,0,4,Low,Reading,Yes,64.2,1,Good ,Low
+STU00911,17.0,Year 3,53.3,89.1,4.1,2,90.5,6.1,51.1,56.4,3,3,Low,visual,Yes,61.1,1,GOOD,Low
+STU00440,17.0,Year 1,66.2,79.7,6.2,2,86.2,8.7,45.8,68.4,2,2,Low,Visual,Yes,59.3,1,Average,Low
+STU00737,21.0,Year 1,61.6,69.8,7.8,2,94.6,7.3,52.8,67.1,3,1,Low,Visual,Yes,72.2,1,Good,Low
+STU00297,18.0,Year 2,40.0,50.0,1.5,0,71.1,6.3,14.3,46.7,3,6,low,Practice,Yes,31.2,0,Poor,High
+STU00621,,Year 1,65.6,69.1,2.6,3,64.2,7.4,50.7,57.3,0,5,medium,Auditory,Yes,57.3,1,Average,Low
+STU00491,19.0,Year 1,37.3,93.4,7.2,4,81.1,8.3,33.4,46.4,1,2,Medium,Practice,Yes,44.9,1,AVERAGE,Medium
+STU00820,22.0,Year 4,77.1,81.1,7.0,2,60.2,7.1,70.7,76.7,1,2,Low,Reading,yes,84.2,1,Excellent,Low 
+STU00559,17.0,Year 1,58.3,96.2,4.7,1,69.9,8.4,63.2,59.1,1,6,Low,Practice ,Yes,58.3,1,Average,Low
+STU00425,19.0,Year 1,36.2,79.2,5.4,1,84.8,8.0,36.0,54.5,3,3,Low,Visual,Yes,52.3,1,Average,Medium
+STU00925,20.0,Year 4,68.0,68.1,6.2,4,60.4,7.3,41.7,53.8,2,3,Medium,Practice,Yes,52.4,1,Average,Medium
+STU00313,21.0,Year 3,82.1,91.6,4.3,1,63.4,7.6,45.9,77.6,0,3, LOW,Visual,Yes,75.2,1,Excellent,Low
+STU00185,22.0,Year 1,63.3,87.7,4.1,1,44.8,6.8,42.3,56.5,2,1,Low,Practice,No,58.6,1,Average,Low
+STU00333,19.0,Year 2,68.5,78.1,3.2,1,96.2,9.9,34.2,54.3,2,3,Low,Practice,Yes,52.7,1,Average,Medium
+STU00089,19.0,Year 1,69.2,,7.8,4,74.5,5.3,63.3,44.4,5,2,Medium, READING,Yes,69.3,1,Good,Low
+STU00064,22.0,Year 4,57.7,66.6,4.9,2,67.1,6.1,57.1,47.5,0,2,Low,Auditory,Yes,57.5,1,Average,Low
+STU00835,20.0,Year 2,86.4,95.9,4.4,1,63.6,7.8,52.1,57.5,1,2,Low,Reading, YES,73.0,1,Good,Low 
+STU00577,19.0,Year 4,57.2,54.3,6.6,2,60.5,8.7,43.8,45.4,1,1,Low,Reading,Yes,48.1,1,Average,Medium
+STU00216,20.0,Year 3,52.2,83.8,1.2,0,74.1,7.3,44.2,44.9,4,3,Low,Reading,Yes,40.8,1,Average,Medium
+STU00616,22.0,Year 4,64.8,91.8,2.6,2,41.1,8.6,38.7,42.7,0,4,Low,Reading,Yes,58.4,1,Average,Low
+STU00514,23.0,Year 2,98.0,76.9,8.7,3,93.3,7.4,66.7,82.4,3,2,Medium,Visual ,Yes,85.4,1,Excellent,low
+STU00291,20.0,Year 3,38.4,64.7,1.1,2,47.5,8.7,30.7,36.4,2,2,Low,Practice,Yes,47.5,1,Average,medium
+STU00378,,Year 2,47.6,76.5,1.5,0,63.8,8.1,48.5,57.3,4,3,Low,Auditory,Yes,30.8,0,Poor,High
+STU00892,21.0,Year 3,58.4,64.9,3.2,3,82.6,6.9,36.7,110.0,4,1,Medium,Visual,Yes,58.8,1,Average,Medium
+STU00970,,Year 2,72.5,76.4,3.5,3,81.6,5.9,,,3,1,Medium,Reading,Yes,57.0,1,Average,Low
+STU00947,21.0,Year 1,50.9,66.1,5.1,1,95.2,6.6,41.5,53.7,0,5,Low,Practice,Yes,66.5,1,Good,Medium
+STU00787,19.0,Year 4,36.5,59.0,7.1,2,78.1,7.5,33.0,52.5,2,7,Low,Practice,Yes,46.8,1,Average,Medium
+STU00426,21.0,Year 1,42.1,58.2,4.4,3,61.6,6.9,13.2,37.1,3,3,Medium,Visual,Yes,23.4,0,Poor,High
+STU00697,18.0,Year 1,58.8,82.4,4.5,1,50.8,7.7,50.0,65.2,3,3,Low,Visual,No,58.2,1,Average,Low
+STU00996,22.0,Year 2,62.7,53.1,5.0,3,68.8,6.9,41.8,62.9,4,5,medium,Practice,Yes,44.9,1,Average,Medium
+STU00310,21.0,Year 1,54.8,80.8,3.8,2,100.0,7.0,57.3,71.3,4,3,Low,Practice,Yes,55.9,1,Average,Low
+STU00087,22.0,Year 2,65.4,94.7,10.7,3,88.2,,67.4,75.5,3,1,Medium,Practice,Yes ,66.0,1,Good,Low
+STU00732,21.0,Year 3,74.1,90.8,5.5,3,82.7,5.6,63.3,76.6,0,3, Medium ,Practice,Yes,78.8,1,Excellent,Low
+STU00756,23.0,Year 2,87.9,62.9,2.7,2,50.6,7.1,59.4,69.9,3,3,Low,Reading,Yes,70.1,1,Good,Low
+STU00311,19.0,Year 1,70.9,76.6,3.2,2,28.7,7.4,49.6,54.4,1,3,Low ,Practice,No,62.2,1,Good,Low
+STU00539,21.0,Year 3,53.1,77.1,6.1,2,62.7,7.0,68.4,40.8,2,4,Low,Reading,Yes,63.4,1,Good,Low
+STU00137,21.0,Year 2,50.4,,1.9,0,40.2,8.2,22.9,25.6,2,7, LOW,Reading,Yes,44.9,1,Average,Medium
+STU00959,21.0,Year 1,40.8,78.0,5.0,1,67.7,6.5,,38.9,1,4,Low,Auditory,Yes,43.8,1, Average ,Medium
+STU01000,22.0,Year 2,67.0,73.9,10.5,2,96.3,7.3,67.7,75.9,2,2,Low,Reading,Yes,69.7,1,Good,Low
+STU00729,21.0,Year 1,72.9,66.1,5.8,2,94.9,6.6,46.5,53.2,0,2,Low,Practice,No,60.4,1,Good,Low
+STU00262,24.0,Year 1,12.0,77.7,2.3,1,54.2,6.5,9.2,34.7,1,1,Low, AUDITORY,Yes,23.2,0,Poor,High
+STU00548,21.0,Year 2,98.0,78.5,7.0,3,82.1,6.3,69.9,91.4,4,3,Medium,Visual,Yes,90.2,1,Excellent,Low
+STU00169,24.0,Year 1,45.6,64.6,3.3,2,56.0,8.4,52.3,51.1,3,1, LOW,Visual,Yes,46.0,1,Average,Medium
+STU00791,24.0,Year 4,87.0,89.3,6.2,3,88.1,,78.1,80.6,3,5,Medium,Visual,Yes,63.0,1,Good ,Low
+STU00449,23.0,Year 1,62.3,94.3,6.9,1,100.0,6.6,55.7,75.4,3,3,Low,Reading,Yes,58.8,1,Average,Low
+STU00140,20.0,Year 3,85.5,100.0,2.2,2,78.1,4.9,81.4,61.7,2,2,Low, READING,Yes,70.5,1,Good,Low
+STU00686,20.0,Year 1,62.2,77.6,14.0,3,60.0,6.2,37.1,68.1,2,2,Medium,Practice,Yes,63.9,1,Good,Low
+STU00667,18.0,Year 4,74.2,62.8,3.2,1,82.5,6.9,43.7,48.4,5,2,Low,Auditory,Yes,62.5,1,Good,low
+STU00858,23.0,Year 2,65.3,63.4,1.1,1,68.4,6.3,57.6,43.3,3,2,Low,Visual,Yes,36.3,0,Poor,High
+STU00519,18.0,Year 3,72.0,83.9,3.9,2,62.8,9.4,49.4,61.9,3,1,Low,Reading,Yes,55.8,1,Average,Low
+STU00679,21.0,Year 1,,95.8,16.4,3,93.9,,86.8,77.9,2,3,Medium,Visual,Yes,76.6,1,Excellent,Low
+STU00534,18.0,Year 2,94.2,88.3,2.7,2,91.1,6.3,58.9,52.4,2,1,Low,Reading,Yes,72.5,1,Good,Low
+STU00056,19.0,Year 3,65.5,94.9,6.6,5,,4.9,59.8,61.7,1,3,High,Practice,Yes,74.2,1,Good,Low
+STU00121,23.0,Year 1,64.8,87.6,2.4,3,85.0,6.4,53.3,62.5,1,1,Medium,Auditory,Yes ,56.5,1,Average,Low
+STU00531,24.0,Year 1,51.0,82.8,2.7,3,90.9,8.8,54.5,46.3,1,3,MEDIUM, AUDITORY, YES,60.6,1,Good,Low
+STU00026,20.0,Year 1,65.5,83.2,4.7,3,93.6,7.9,64.5,77.2,1,2,Medium,Practice,Yes,75.8,1,Excellent,Low
+STU00073,20.0,Year 2,59.4,70.7,2.8,0,72.6,7.9,41.5,49.7,3,4,Low,Practice,yes,56.5,1,Average, LOW
+STU00045,19.0,Year 2,63.0,56.0,3.3,1,,,28.7,48.0,2,2,Low,Practice,Yes,55.2,1,Average,Medium
+STU00250,20.0,Year 2,75.4,69.5,3.2,2,85.0,7.9,60.2,57.2,2,2,Low,Practice,Yes,68.5,1,Good,Low
+STU00405,20.0,Year 3,49.4,77.6,3.1,0,80.2,5.3,44.2,44.2,1,3,Low,Reading,Yes,41.2,1,Average,Medium
+STU00848,20.0,Year 4,69.8,94.4,3.6,1,54.9,8.8,52.0,50.4,2,3,Low ,Practice,Yes,62.2,1,Good,Low
+STU00704,23.0,Year 1,54.9,49.8,6.7,3,69.4,6.7,26.0,48.8,1,3,Medium,Reading,Yes,44.3,1,Average,Medium
+STU00919,23.0,Year 1,78.4,60.6,7.7,2,74.6,8.0,52.6,73.9,0,2,Low,Visual,yes,57.3,1,Average,Low
+STU00199,21.0,Year 4,91.9,83.5,10.4,3,71.1,5.5,65.8,88.2,2,5,Medium,Visual,Yes,72.5,1,Good,Low
+STU00543,24.0,Year 3,54.7,84.9,2.9,0,40.2,6.9,27.6,25.8,3,3,Low,Auditory,No,41.9,1,Average,Medium
+STU00356,,Year 4,75.6,70.0,6.1,4,93.5,6.0,60.4,62.3,1,2,Medium,Reading,Yes,66.3,1,Good,Low
+STU00324,22.0,Year 3,72.8,88.0,4.9,2,79.4,5.3,58.0,59.8,2,1,low,Auditory,Yes,79.4,1,Excellent,Low
+STU00650,19.0,Year 1,55.7,65.6,2.8,1,73.9,7.1,46.0,57.2,2,4,Low,Reading,Yes,52.3,1,Average,Medium
+STU00917,21.0,Year 1,74.6,82.4,8.4,2,71.9,6.1,47.4,61.3,3,4,Low,Auditory,Yes,66.6,1,Good,low
+STU00236,23.0,Year 3,48.5,77.3,7.7,4,70.3,6.1,44.8,35.9,1,3,Medium,Practice ,Yes,48.1,1,Average,Medium
+STU00581,20.0,Year 2,72.3,71.3,10.8,3,66.7,5.9,49.1,57.3,3,3,Medium,Practice,yes,50.9,1,Average,Medium
+STU00950,21.0,Year 3,80.0,,7.9,3,71.4,5.7,60.5,77.9,4,2,Medium,Visual, YES,70.8,1,Good,Low
+STU00944,18.0,Year 2,54.8,98.2,9.5,3,65.3,8.8,56.9,55.0,2,2,Medium,Visual,Yes,60.6,1,Good,Low
+STU00908,24.0,Year 1,60.3,69.2,3.6,2,92.8,6.6,44.9,55.2,1,4,Low,Auditory,No,62.3,1,Good,Low
+STU00300,24.0,Year 3,78.2,74.6,0.7,3,44.9,7.5,69.0,40.6,1,1,Medium,Reading,no,62.5,1,Good,Low
+STU00061,,Year 4,83.3,76.8,6.0,2,96.0,7.3,55.0,56.8,2,2,Low,Auditory,yes,63.3,1,Good, LOW
+STU00328,18.0,Year 2,59.7,85.6,1.8,3,,6.4,44.8,59.3,3,1,Medium,Visual,Yes,67.4,1,Good,Low
+STU00932,22.0,Year 3,58.1,77.4,0.9,0,78.6,8.1,61.6,49.7,3,1,Low,Practice ,Yes,45.5,1,Average,Medium
+STU00602,18.0,Year 1,69.3,72.2,6.2,2,56.6,7.4,49.3,52.0,2,4,Low , READING,Yes,59.3,1,Average,Low
+STU00448,22.0,Year 4,52.7,66.3,6.6,2,82.0,6.4,53.9,53.5,1,5,Low, READING,Yes,67.0,1,Good ,Low
+STU00830,18.0,Year 2,55.8,82.2,4.6,2,94.1,7.7,45.1,49.3,2,3,Low,Visual,Yes,54.1,1,Average,Medium
+STU00651,,Year 3,80.6,85.6,6.5,3,83.5,5.5,66.6,56.4,1,3, Medium ,Auditory,Yes,74.7,1,Good,Low
+STU00599,24.0,Year 1,54.4,59.0,4.7,0,80.6,7.9,63.1,26.6,3,3,Low,Visual, YES,42.1,1,Average,Medium
+STU00545,23.0,Year 4,80.6,90.2,5.3,1,61.8,6.9,60.7,76.8,2,6,Low,Reading,Yes,71.1,1,Good,Low
+STU00785,24.0,Year 1,45.3,84.5,1.4,0,59.8,6.2,51.3,47.9,6,2,Low,Practice,Yes,30.3,0,Poor,High
+STU00306,17.0,Year 3,56.5,71.4,4.0,1,66.6,5.7,61.9,52.1,1,3,Low,Auditory,No,55.6,1,Average,Low 
+STU00319,23.0,Year 2,64.0,86.0,3.8,1,56.3,6.3,52.0,24.8,4,3,Low,Visual,Yes,55.3,1,Average,Low
+STU00761,18.0,Year 3,68.7,79.1,10.3,3,70.5,8.5,48.9,62.0,2,2,Medium,Visual,Yes,75.8,1,Excellent,Low
+STU00495,20.0,Year 2,85.0,80.4,7.5,2,64.3,7.7,51.8,66.6,1,3,Low,Reading,Yes,67.5,1,Good,Low 
+STU00266,17.0,Year 1,81.5,94.8,4.8,3,72.5,6.0,64.5,78.5,2,3,Medium,Practice,Yes,75.9,1,Excellent,Low
+STU00111,19.0,Year 1,32.6,76.5,2.3,1,63.2,7.9,30.2,40.8,1,1,Low,Visual,Yes,53.5,1,Average,Medium
+STU00694,20.0,Year 1,98.0,90.5,9.3,2,94.0,7.8,74.0,68.6,2,1,Low,Practice,Yes,77.8,1,Excellent,Low
+STU00945,23.0,Year 2,47.0,81.2,3.3,0,69.8,7.5,24.7,39.1,1,3,Low,Reading,No,47.2,1,Average,Medium
+STU00528,24.0,Year 2,43.4,91.0,6.0,4,69.7,7.5,43.2,47.9,3,2,Medium,Reading,Yes,46.3,1,Average,Medium
+STU00257,23.0,Year 1,,61.7,3.6,1,74.9,6.4,27.6,42.5,2,5,Low,Reading,Yes,43.6,1,Average,Medium
+STU00261,17.0,Year 2,77.2,84.7,4.4,1,65.9,7.1,58.9,63.1,1,2,Low ,Auditory,yes,82.0,1,Excellent,Low
+STU00635,17.0,Year 2,65.1,100.0,6.4,1,90.6,,67.6,68.7,3,4,Low,Visual,Yes,80.2,1,Excellent,Low
+STU00824,24.0,Year 1,50.5,76.8,4.6,3,86.4,5.6,37.8,50.5,2,2,medium,Visual,Yes,56.3,1,Average,Low
+STU00430,19.0,Year 2,20.2,75.4,1.6,1,67.0,6.4,49.1,41.4,3,1,Low, AUDITORY,Yes,26.3,0,Poor,High
+STU00631,24.0,Year 1,51.5,39.2,2.6,3,89.0,9.5,34.3,35.1,3,2,Medium,Auditory,Yes,46.0,1,Average,Medium
+STU00381,18.0,Year 2,87.8,89.3,1.5,2,74.4,5.8,49.9,61.0,1,2,Low,Practice,Yes,59.2,1,Average,Low
+STU00434,19.0,Year 3,57.1,74.1,8.5,2,73.0,7.6,44.0,42.8,2,1,Low, VISUAL,Yes,63.9,1,good,Low
+STU00735,20.0,Year 3,57.8,100.0,8.3,3,76.6,6.8,66.2,68.8,1,3,Medium,Visual,Yes,65.9,1,Good,Low
+STU00138,17.0,Year 4,66.8,78.3,6.9,2,69.2,8.1,50.9,51.3,3,3,Low,Practice,Yes,59.4,1,Average,Low
+STU00358,18.0,Year 1,48.3,82.6,2.4,3,,8.1,51.6,54.8,0,3,Medium,Visual,Yes,44.3,1,Average,Medium
+STU00529,17.0,Year 2,63.7,71.0,2.5,0,45.7,6.7,39.3,46.7,3,5,Low,Visual,Yes,49.8,1,Average,Medium
+STU00222,18.0,Year 1,58.2,65.8,5.3,2,67.6,8.2,39.0,49.6,3,2,Low,Reading,No,49.3,1,Average,Medium
+STU00757,24.0,Year 4,67.3,93.3,5.4,3,85.1,7.4,62.7,64.8,1,1,Medium,Visual,yes,75.3,1,Excellent,Low
+STU00597,21.0,Year 1,49.5,78.6,0.6,1,61.1,6.5,53.7,37.8,0,2,Low,Practice,Yes,56.2,1,average,Low
+STU00560,21.0,Year 1,55.5,75.3,2.5,1,89.9,6.5,42.7,53.4,3,3,Low,Visual,Yes ,53.5,1,Average,Medium
+STU00364,17.0,Year 2,52.3,91.6,,2,94.5,7.5,77.0,43.8,3,2,Low,Practice,Yes,60.5,1,Good,Low
+STU00526,19.0,Year 2,61.3,,3.3,3,80.5,8.8,53.9,69.6,0,1,Medium,Practice,Yes,68.5,1,Good,Low
+STU00209,18.0,Year 4,71.3,94.3,4.6,1,94.8,7.0,61.2,58.5,1,2,Low,Practice,yes,73.2,1,Good,Low
+STU00412,17.0,Year 1,63.8,79.1,1.8,1,79.5,6.1,53.3,47.4,0,3,Low,Practice, YES,66.7,1,Good,Low
+STU00335,,Year 1,92.7,91.3,6.0,1,77.2,6.9,66.7,71.1,1,3,low,Practice,Yes,63.8,1,good,Low
+STU00211,22.0,Year 3,65.8,76.2,6.1,3,70.6,7.7,53.2,,1,2,Medium,Visual ,Yes,68.0,1,Good,Low
+STU00351,21.0,Year 1,,59.1,0.9,1,82.6,8.3,47.5,53.2,3,4,Low,Practice,Yes,61.0,1,Good,Low
+STU00079,19.0,Year 4,88.5,68.0,12.0,4,49.5,7.5,67.5,40.7,3,2,medium,Auditory,Yes,69.1,1,Good,Low
+STU00030,19.0,Year 1,62.5,86.3,2.3,0,86.2,6.3,44.9,48.6,4,2,Low,visual,Yes,52.9,1,Average,Medium
+STU00281,23.0,Year 1,58.9,89.5,6.6,3,63.4,6.6,71.4,67.1,0,3,Medium, VISUAL,Yes,55.7,1,Average,Low 
+STU00586,21.0,Year 1,70.0,73.5,7.1,3,94.4,7.2,48.0,60.2,0,2,Medium,Reading,Yes,61.3,1,Good,Low
+STU00753,21.0,Year 2,85.9,62.3,10.5,3,50.5,7.2,73.4,63.5,0,2,Medium,Reading,Yes,72.4,1,Good,Low
+STU00781,19.0,Year 2,58.8,91.6,3.7,1,97.3,8.0,56.6,61.1,4,3,Low,Visual,yes,60.9,1,Good,Low
+STU00290,20.0,Year 1,66.0,81.4,9.9,2,88.0,5.9,84.3,82.6,4,2,low,Reading ,Yes,76.9,1,Excellent,Low
+STU00166,,Year 4,73.5,69.8,11.7,3,56.1,7.0,61.9,63.1,2,5,Medium,Practice,Yes,65.4,1,good,Low
+STU00606,23.0,Year 3,48.9,77.8,5.1,3,77.7,8.2,40.6,55.4,2,2,Medium,Practice,Yes,47.5,1,Average,Medium
+STU00875,20.0,Year 2,39.5,70.4,5.6,1,65.9,9.3,44.7,36.4,1,1,Low,Practice,Yes,42.6,1,Average,Medium
+STU00721,22.0,Year 2,49.7,65.3,8.7,3,85.4,9.5,45.3,51.6,0,4, Medium ,Visual,Yes,55.3,1,Average,Medium
+STU00066,21.0,Year 2,85.9,62.3,,2,71.3,6.1,63.3,56.4,6,2,low,Practice,Yes,62.7,1,Good,Low
+STU00142,24.0,Year 1,81.7,81.4,4.7,2,18.7,6.5,57.6,49.1,3,2,Low,Reading,Yes,61.2,1,Good,Low
+STU00276,20.0,Year 2,80.1,87.4,5.3,2,87.0,5.4,55.8,62.4,3,3,Low,Visual,Yes,56.6,1,Average,Low
+STU00836,21.0,Year 3,72.8,48.5,5.3,3,96.2,7.5,53.5,41.0,4,6,Medium,Practice,No,49.9,1,Average, Medium 
+STU00656,21.0,Year 4,64.3,88.9,7.1,3,90.9,9.0,74.0,60.9,1,1,Medium,Visual,Yes,67.4,1,Good,Low
+STU00466,18.0,Year 1,88.4,100.0,2.4,4,76.2,4.1,66.5,-4.0,1,4,Medium,Visual,Yes,64.8,1,Good,Low
+STU00671,23.0,Year 2,62.3,100.0,5.2,1,86.2,7.8,53.8,67.8,4,2,Low,Visual,Yes,53.4,1,Average,Medium
+STU00320,23.0,Year 3,41.9,84.6,3.6,3,22.1,7.6,-8.0,42.1,4,4,Medium,Visual,Yes,38.4,0,Poor ,High
+STU00399,19.0,Year 1,52.7,80.0,3.4,2,82.4,6.8,48.4,47.9,0,2,Low,Auditory,Yes,54.1,1,Average, Medium 
+STU00307,19.0,Year 1,39.3,76.9,3.2,2,17.4,6.2,31.3,-4.0,2,4,Low,Visual,Yes,34.2,0,poor,High
+STU00308,18.0,Year 2,63.6,88.1,4.1,2,56.1,7.2,47.8,70.0,2,5,Low,Visual,Yes,56.1,1,Average,Low
+STU00829,22.0,Year 2,24.8,75.3,2.5,0,76.9,10.2,21.1,31.3,4,5,Low,Auditory,Yes,34.9,0,Poor,High
+STU00334,23.0,Year 1,37.4,47.9,2.8,1,71.5,5.8,43.3,44.4,4,7,Low,Auditory,Yes,39.4,0,Poor,High
+STU00050,,Year 1,98.0,86.3,7.7,3,64.5,4.9,78.9,62.3,0,3,Medium,Practice,No,91.7,1,Excellent,Low
+STU00826,23.0,Year 4,67.0,73.8,7.4,3,69.2,7.8,55.2,59.3,1,4,Medium,Reading,Yes,64.0,1,Good,Low
+STU00003,20.0,Year 2,62.4,64.1,1.5,3,57.6,7.2,53.0,46.3,2,3,Medium,Reading,Yes ,54.8,1,Average,Medium
+STU00549,20.0,Year 1,55.2,86.2,1.9,1,59.7,10.1,33.7,38.8,1,3,Low,Practice,Yes,38.6,0,Poor,high
+STU00353,22.0,Year 2,70.0,89.1,3.9,1,40.7,6.3,46.1,44.7,4,3,Low ,Auditory,Yes,42.3,1,Average,Medium
+STU00913,20.0,Year 2,37.3,65.2,3.1,2,82.0,4.5,13.5,35.7,3,1,Low,Practice,Yes,45.9,1,Average,Medium
+STU00952,21.0,Year 3,68.0,81.2,7.0,2,49.4,6.6,69.6,49.2,2,5,Low,Practice,Yes,66.6,1,Good,Low
+STU00347,19.0,Year 2,,,4.6,3,50.9,6.5,30.9,31.7,0,3, Medium , VISUAL, YES,49.0,1,Average,Medium
+STU00412,17.0,Year 1,63.8,79.1,1.8,1,79.5,6.1,53.3,47.4,0,3,Low,Practice, YES,66.7,1,Good,Low
+STU00825,21.0,Year 1,66.7,55.3,2.5,3,46.2,6.6,32.1,52.2,2,3,Medium,Reading,Yes,48.7,1,Average, Medium 
+STU00582,20.0,Year 1,43.0,86.6,6.0,4,59.1,7.7,48.4,45.9,2,1,Medium,Auditory,Yes,57.4,1,Average,Low
+STU00034,22.0,Year 3,58.1,79.2,8.7,1,26.8,,45.0,53.2,1,2,Low ,Auditory,Yes,61.1,1,Good,Low
+STU00032,18.0,Year 1,54.6,67.9,1.3,0,71.9,7.7,44.7,39.1,1,1,Low,Auditory, YES,52.4,1,Average,Medium
+STU00232,17.0,Year 1,69.1,86.3,6.6,2,79.4,5.5,54.0,72.2,1,4,Low,Visual,Yes,73.3,1,Good,Low
+STU00755,24.0,Year 4,54.0,69.3,7.7,2,59.6,5.8,60.8,62.8,1,4,Low,Visual,Yes,59.1,1,Average,Low
+STU00193,19.0,Year 1,80.9,89.6,4.8,2,61.1,9.1,56.4,67.5,2,2,Low,Reading,Yes,67.4,1,Good,Low
+STU00515,17.0,Year 2,53.8,100.0,7.1,2,99.3,7.8,59.0,82.6,3,3,Low,Visual,yes,73.6,1,Good,Low
+STU00004,20.0,Year 2,73.5,78.5,1.2,1,,8.4,38.6,68.3,2,3,Low, PRACTICE,Yes,54.5,1,Average, Medium 
+STU00205,,Year 2,56.8,100.0,5.1,1,63.4,6.8,49.1,63.0,4,3,low,Practice,Yes,58.7,1,Average,Low
+STU00540,20.0,Year 3,45.3,63.1,6.1,1,70.6,6.0,41.5,43.7,4,5,Low,Practice,Yes,43.1,1,Average,Medium
+STU00663,18.0,Year 2,53.5,100.0,5.0,2,90.5,7.8,60.6,49.1,1,4,Low,Visual,No ,66.7,1,Good,Low
+STU00989,24.0,Year 1,53.7,100.0,5.8,4,87.7,6.2,75.0,43.7,1,2,Medium,Auditory,Yes,70.1,1,Good,Low
+STU00110,19.0,Year 2,46.3,67.5,2.4,1,56.6,7.8,26.8,41.8,4,3,Low,Auditory,Yes,37.8,0,Poor,High
+STU00603,23.0,Year 3,,68.4,7.4,3,60.7,3.7,65.8,39.8,0,2,Medium,Auditory,Yes,40.2,1,Average,Medium
+STU00078,20.0,Year 4,36.8,60.0,4.9,3,83.6,7.4,41.5,35.2,3,3,Medium,Auditory,Yes,41.5,1,Average,Medium
+STU00085,18.0,Year 3,87.7,100.0,14.6,5,73.4,7.7,90.6,86.6,1,1,High,Reading ,yes,91.5,1,Excellent,Low
+STU00527,20.0,Year 3,51.2,73.4,2.8,2,68.4,7.1,22.7,47.4,1,2, LOW,Practice,Yes,45.2,1,Average,Medium
+STU00083,19.0,Year 2,66.8,52.1,8.2,4,84.8,6.5,51.1,60.8,0,1,Medium,Reading,Yes,70.7,1,good,Low
+STU00255,19.0,Year 2,83.6,86.2,5.7,2,100.0,6.4,66.4,64.3,3,2,Low,Practice,Yes,79.2,1,Excellent,Low
+STU00765,18.0,Year 2,52.2,71.0,4.7,1,73.6,5.9,30.6,36.8,1,3,Low,Auditory,Yes,44.2,1,Average,Medium
+STU00429,23.0,Year 1,73.2,71.5,7.9,2,77.1,7.0,56.3,53.8,1,2,Low,Visual,Yes,64.4,1,Good,low
+STU00916,20.0,Year 1,20.0,74.6,3.0,2,,7.1,18.7,41.4,3,6,Low,Visual,Yes,37.0,0,Poor,High
+STU00524,20.0,Year 1,61.5,66.6,12.1,2,91.8,7.7,49.3,65.1,1,3,Low,Visual, YES,69.2,1,Good,Low
+STU00468,22.0,Year 4,20.3,54.7,2.5,1,69.4,6.7,43.9,20.2,4,2,Low,Auditory,Yes,32.9,0,Poor,High
+STU00645,20.0,Year 2,,100.0,8.1,3,77.8,7.5,58.2,53.5,1,3,Medium,Practice,Yes,74.2,1,Good,Low
+STU00006,18.0,Year 2,46.0,79.0,,3,,7.0,55.0,41.2,1,4,Medium,Reading,yes,55.3,1,Average,Low
+STU00406,23.0,Year 2,71.6,61.6,10.3,4,76.5,7.7,49.0,31.1,2,2,Medium,Practice,Yes,50.5,1,Average,MEDIUM
+STU00469,17.0,Year 2,76.6,60.0,9.4,4,70.7,6.8,64.0,65.5,0,1,Medium,Visual,Yes,67.4,1,Good,Low
+STU00098,23.0,Year 1,82.6,91.7,3.7,2,55.8,6.5,74.0,59.8,1,3,Low,Reading,Yes,69.9,1,Good,Low
+STU00927,21.0,Year 1,50.9,73.2,3.4,2,70.7,7.5,55.8,51.1,1,3,Low,Reading,Yes,47.2,1,Average,Medium
+STU00360,18.0,Year 1,63.5,47.5,10.4,4,61.1,5.4,46.2,,0,5,Medium,Reading,Yes ,60.3,1,Good,Medium
+STU00877,22.0,Year 4,64.3,61.1,6.8,0,51.3,7.8,48.4,49.8,1,2,Low,Reading,Yes,58.9,1,Average,Low
+STU00267,22.0,Year 4,70.6,85.0,6.4,3,36.7,6.4,62.4,52.6,1,2,Medium,Practice,Yes ,80.0,1,Excellent,Low
+STU00423,17.0,Year 2,72.5,90.6,,1,68.6,6.8,,72.3,1,2,Low,Visual,Yes,64.4,1,Good,Low
+STU00463,20.0,Year 2,34.8,58.1,10.9,2,43.9,7.7,34.3,42.3,0,3,Low,Visual,Yes,52.1,1,Average,Medium
+STU00696,19.0,Year 3,98.0,100.0,1.6,2,87.8,8.7,68.3,57.8,2,2,Low,Practice,yes,72.0,1,Good,Low
+STU00974,24.0,Year 2,68.8,86.8,0.6,0,58.4,6.8,51.4,63.3,4,1,Low,Practice,Yes,61.2,1,Good,Low
+STU00494,21.0,Year 1,61.1,100.0,4.3,1,80.5,7.4,48.6,67.4,1,4,Low,Auditory,Yes,70.4,1,Good,Low
+STU00119,21.0,Year 4,77.9,95.6,1.8,2,90.6,6.1,67.7,54.4,3,2, LOW,Practice,Yes,58.5,1,Average,Low
+STU00972,17.0,Year 4,84.8,90.5,3.0,0,93.4,6.7,65.4,67.3,4,1,Low,Practice,Yes,73.4,1,Good,Low
+STU00251,21.0,Year 3,68.9,70.6,3.5,1,69.4,7.9,48.5,63.6,4,1,Low,Auditory,Yes,51.6,1,AVERAGE,Medium
+STU00343,21.0,Year 1,43.5,91.9,4.1,0,75.0,6.7,51.4,60.3,1,2,Low,Auditory,Yes,59.1,1,Average,Low
+STU00010,22.0,Year 3,63.3,68.8,7.4,3,68.5,5.2,44.1,55.7,1,4,Medium,Reading,Yes,51.9,1,Average,Medium
+STU00197,19.0,Year 1,48.4,77.9,0.9,2,67.6,6.6,65.9,39.2,3,2,Low,Visual,Yes,50.8,1,Average,Medium
+STU00742,17.0,Year 1,61.5,82.4,19.5,6,100.0,5.6,68.4,80.6,0,2,High,visual,Yes,68.4,1,Good,Low
+STU00082,17.0,Year 2,56.8,63.1,4.5,3,74.9,8.7,46.0,58.0,3,5,Medium,Visual,No,50.7,1, Average ,Medium
+STU00949,21.0,Year 3,59.8,56.6,2.7,1,80.7,6.7,44.1,41.1,1,1,Low,Practice,Yes,61.2,1,Good,Medium
+STU00480,18.0,Year 1,74.6,89.7,0.8,2,80.1,5.1,49.5,46.9,0,4,Low,reading,No,61.6,1,Good,low
+STU00626,21.0,Year 2,64.9,77.1,,4,77.8,8.6,54.7,70.3,1,5,Medium,Practice,Yes,83.9,1,Excellent,Low
+STU00240,24.0,Year 3,73.6,90.0,6.5,2,89.6,4.9,75.6,61.8,2,1,Low ,Reading,Yes,72.2,1,Good,Low
+STU00293,18.0,Year 1,86.0,62.5,0.1,3,63.3,,36.7,45.7,0,4,Medium,Practice,Yes,57.9,1,Average,Low
+STU00212,23.0,Year 2,48.7,100.0,2.0,3,47.5,6.4,40.0,36.0,0,2,Medium,Reading , YES,52.9,1,average,MEDIUM
+STU00901,21.0,Year 3,65.6,68.3,10.1,4,67.5,4.9,35.9,66.0,0,4,Medium,Practice,Yes,64.3,1,Good,Low
+STU00362,23.0,Year 4,44.8,88.7,2.7,1,86.3,8.0,39.9,85.2,5,1,Low,Auditory,Yes,48.5,1,Average,Medium
+STU00533,24.0,Year 2,53.5,87.9,4.1,2,85.2,9.0,34.8,30.1,3,6,Low,Reading,Yes,49.1,1,Average,Medium
+STU00228,24.0,Year 4,68.8,55.8,5.9,3,77.9,8.4,48.0,62.3,0,5,Medium,Auditory,Yes,58.6,1,Average,Low
+STU00865,17.0,Year 3,64.5,90.7,5.1,1,55.9,6.4,52.4,78.8,1,3,Low ,Practice,Yes,71.1,1,Good,Low
+STU00363,24.0,Year 4,75.5,85.6,9.5,4,75.6,5.6,,51.5,3,3,Medium,Auditory,Yes,77.3,1,Excellent,Low
+STU00853,17.0,Year 1,45.4,90.7,0.0,1,46.5,6.9,43.8,38.5,0,2,Low,Visual,Yes,52.4,1,Average,Medium
+STU00955,19.0,Year 3,57.2,70.0,12.5,3,57.6,5.7,50.3,42.5,2,1,Medium,Reading,Yes,68.0,1,Good,Low
+STU00965,22.0,Year 1,20.9,87.7,3.7,0,27.2,8.2,14.0,33.9,1,2,Low,Visual,Yes,34.9,0,Poor,High
+STU00366,17.0,Year 4,56.9,75.3,13.0,3,69.5,7.4,48.4,61.6,2,3,Medium,Auditory,Yes,65.4,1,Good,Low
+STU00771,22.0,Year 3,53.2,100.0,5.4,1,70.3,5.5,79.7,49.2,2,3,Low,practice,Yes,67.5,1,Good,Low
+STU00860,20.0,Year 1,69.2,79.0,4.1,2,84.1,7.4,47.2,50.6,2,1,Low,Reading,Yes,65.8,1,Good,Low
+STU00372,23.0,Year 2,82.5,89.0,6.6,2,81.3,3.8,75.2,66.0,2,1,Low,Auditory,Yes ,89.0,1,Excellent,low
+STU00008,18.0,Year 2,50.4,87.7,5.1,2,73.3,5.7,36.6,72.5,0,2,Low,Visual,Yes,66.8,1,Good,Low
+STU00156,20.0,Year 2,81.8,100.0,5.5,3,51.9,8.1,72.0,52.4,1,2,Medium, PRACTICE,yes,66.6,1,Good,Low
+STU00546,20.0,Year 1,84.8,66.6,2.2,0,80.7,6.6,69.1,58.0,5,4,Low,Practice,Yes,62.9,1,Good,Low
+STU00808,19.0,Year 2,85.1,64.8,,1,79.5,6.8,57.3,62.3,2,2,Low,Reading,yes,59.0,1,Average,Low
+STU00486,19.0,Year 4,74.2,88.1,6.5,3,70.8,9.0,46.3,61.5,0,4,Medium,Auditory,Yes,62.9,1,Good,Low
+STU00585,19.0,Year 3,50.2,55.9,4.0,2,6.4,7.2,37.4,39.9,0,2,low, PRACTICE,yes,48.4,1,Average,Medium
+STU00786,17.0,Year 1,83.1,87.5,7.6,3,52.7,7.1,65.3,36.9,2,5,Medium,Visual,Yes,74.6,1,good,Low
+STU00571,,Year 4,62.8,100.0,7.1,3,69.4,6.0,64.5,71.3,1,1,Medium,Practice ,Yes,69.3,1,Good, LOW
+STU00478,18.0,Year 4,53.0,87.0,5.3,1,67.7,8.3,56.2,44.0,1,2,Low,Visual,Yes,52.0,1,Average,Medium
+STU00583,19.0,Year 3,59.8,84.8,5.7,3,67.3,8.1,59.8,60.8,1,1,Medium,Visual,No,63.9,1,Good,Low
+STU00943,23.0,Year 1,49.9,67.3,9.5,4,90.5,7.2,85.2,43.9,0,1,Medium,Visual, YES,82.8,1,Excellent,Low 
+STU00698,20.0,Year 2,65.6,74.4,3.5,3,93.5,8.2,63.0,57.1,0,5,Medium,Auditory,Yes,65.7,1,Good,Low
+STU00833,19.0,Year 4,51.3,74.5,8.8,5,79.9,5.9,52.5,57.2,2,4,High,Practice,Yes,49.6,1,Average,Medium
+STU00535,23.0,Year 1,70.3,90.7,6.4,4,98.7,7.9,53.5,80.8,1,3,Medium,Auditory,Yes,85.3,1,Excellent,Low
+STU00588,19.0,Year 2,76.6,93.9,8.5,4,50.0,7.3,,75.2,1,6,Medium, PRACTICE,Yes,73.5,1,Good,Low 
+STU00715,21.0,Year 4,61.3,63.0,3.2,2,99.4,7.0,65.5,23.0,2,1,Low,Practice,Yes,64.6,1,Good, LOW
+STU00452,24.0,Year 1,52.7,92.0,3.1,1,38.8,6.2,53.2,50.1,3,2,Low,Visual,Yes,51.0,1,Average,Medium
+STU00457,23.0,Year 2,65.9,52.3,6.3,1,80.4,6.4,42.1,38.9,1,1,low,Reading,Yes,48.7,1,Average,Medium
+STU00229,19.0,Year 1,58.6,62.7,4.9,1,90.9,8.2,71.9,55.6,1,3,Low,Reading,Yes,55.4,1,Average,Low
+STU00860,20.0,Year 1,69.2,79.0,4.1,2,84.1,7.4,47.2,50.6,2,1,Low,Reading,Yes,65.8,1,Good,Low
+STU00750,24.0,Year 2,66.4,60.4,4.1,1,79.3,6.4,42.7,52.0,2,3,Low,Practice,Yes,50.2,1,Average,Medium
+STU00213,21.0,Year 4,69.1,75.9,3.9,1,79.4,5.7,61.0,64.4,3,3,Low,Auditory,Yes,55.6,1,Average,Low
+STU00080,18.0,Year 4,71.6,97.8,4.1,2,65.9,7.5,52.8,61.0,4,4,Low,Practice,Yes,65.7,1,Good,Low
+STU00149,23.0,Year 4,39.5,74.5,6.7,3,76.2,7.1,70.5,36.2,4,1,medium,Visual,Yes,42.7,1,Average,Medium
+STU00303,21.0,Year 1,59.7,70.3,3.9,1,28.8,8.0,41.9,63.9,0,1,Low,Visual,Yes,41.5,1,Average,Medium
+STU00666,21.0,Year 1,79.0,85.7,8.4,3,85.4,6.1,57.4,53.8,3,1,Medium,Visual,Yes,71.2,1,Good,low
+STU00329,17.0,Year 4,56.0,92.1,1.9,1,16.0,6.7,48.7,52.9,1,2,Low,Visual,No ,55.4,1,Average,Low
+STU00670,24.0,Year 2,72.5,71.7,8.9,3,82.8,6.0,58.2,71.0,2,1,Medium,Visual,Yes ,85.7,1,Excellent,Low 
+STU00345,21.0,Year 1,82.7,73.3,4.0,0,56.3,6.6,54.3,48.4,7,7,Low,Practice,Yes,66.9,1,Good,Low
+STU00712,17.0,Year 2,58.3,95.1,1.7,2,84.9,5.8,45.1,28.0,0,2,Low,Auditory,Yes,52.9,1,Average,Medium
+STU00508,21.0,Year 1,16.4,65.7,1.6,3,51.2,8.9,20.1,19.2,2,3,Medium,Practice,Yes,12.4,0,poor,High
+STU00134,20.0,Year 3,90.8,70.7,4.1,0,100.0,7.0,68.2,68.4,1,3,low,Practice,Yes,77.8,1,Excellent,Low
+STU00555,24.0,Year 2,89.1,89.8,7.0,2,42.1,7.5,80.9,78.5,3,2,Low,Reading,No,70.0,1,Good,Low
+STU00312,17.0,Year 2,66.6,,0.5,2,76.6,6.7,43.9,49.8,4,5,Low,Auditory,Yes,49.6,1,Average,Medium
+STU00759,,Year 1,77.6,100.0,3.1,2,77.3,7.6,52.1,72.9,1,3,Low,Practice,Yes,74.5,1,Good,Low
+STU00500,24.0,Year 2,65.2,78.4,4.9,2,69.4,7.2,57.4,61.9,2,3,Low,visual,Yes,56.8,1,Average,Low
+STU00001,24.0,Year 3,56.7,73.9,5.2,2,60.3,6.9,43.0,53.0,2,5,Low,Auditory,Yes,49.3,1,Average,Medium
+STU00317,17.0,Year 3,54.5,82.6,5.2,3,58.4,7.2,45.9,62.8,0,3,Medium,Auditory,Yes,43.5,1,AVERAGE,Medium
+STU00714,21.0,Year 2,41.8,76.0,,2,36.7,5.0,,39.5,0,4,Low,Visual,Yes,55.8,1,Average,Medium
+STU00552,,Year 1,98.0,83.9,7.9,4,78.2,6.4,66.7,61.8,0,5,Medium,Auditory,Yes,85.2,1,Excellent,Low
+STU00804,17.0,Year 2,64.6,96.6,3.7,2,85.7,5.7,50.9,51.9,3,2, LOW,Reading,Yes,57.4,1,Average,Low
+STU00537,19.0,Year 4,59.3,74.7,1.0,3,69.9,5.8,23.9,46.3,0,4,Medium,Visual,Yes,49.4,1,Average,Medium
+STU00746,20.0,Year 1,,88.9,5.6,2,87.3,7.2,44.4,56.2,3,4,Low,Reading,Yes,51.7,1,Average,Medium
+STU00846,20.0,Year 1,55.5,51.7,5.8,3,69.8,7.5,26.8,34.8,0,3,Medium,Visual,Yes ,55.5,1,Average,Medium
+STU00173,24.0,Year 3,60.8,91.0,3.0,2,59.2,8.5,59.4,61.2,1,3,Low,visual,Yes,64.0,1,Good,Low
+STU00126,19.0,Year 3,71.0,88.4,4.7,1,88.6,7.6,66.6,60.9,0,4,Low,Visual,Yes,76.2,1,Excellent,Low
+STU00990,20.0,Year 3,69.4,89.2,0.2,2,71.9,6.8,46.7,40.5,2,2,Low,Visual,Yes,72.8,1,Good,Low
+STU00424,23.0,Year 2,79.6,93.6,9.1,3,83.9,6.1,61.1,72.4,2,4,Medium,Visual,Yes,72.0,1,Good,Low
+STU00809,23.0,Year 3,56.8,69.5,4.4,1,57.7,6.4,58.7,53.9,3,2,Low, VISUAL,No,52.5,1,AVERAGE,medium
+STU00912,17.0,Year 4,44.3,66.2,4.7,1,53.9,4.3,27.8,45.8,1,4,Low,Practice,Yes,49.2,1,Average,Medium
+STU00091,24.0,Year 1,59.5,98.1,8.8,1,49.8,7.5,64.4,78.6,3,2,Low,Practice,No,67.9,1,Good,Low
+STU00948,20.0,Year 2,36.9,59.5,8.0,2,71.5,6.1,48.4,21.6,2,2,Low,Practice,Yes,37.6,0,Poor,High
+STU00182,18.0,Year 4,72.1,59.4,2.2,1,72.3,7.0,42.9,39.9,0,1,Low,Practice,Yes,54.0,1,Average,Medium
+STU00275,18.0,Year 3,64.5,79.6,2.6,0,63.0,6.9,42.5,45.5,0,1,Low,Practice,Yes,57.9,1,Average,Low
+STU00904,21.0,Year 4,49.2,85.2,3.2,1,50.4,7.3,41.4,56.7,2,3,Low,Practice,Yes,46.0,1,Average,Medium
+STU00070,20.0,Year 2,53.8,75.3,3.2,1,48.9,7.2,41.0,42.1,3,3,Low,Reading,Yes ,50.2,1,Average,Medium
+STU00292,19.0,Year 2,68.3,100.0,5.5,3,88.8,5.9,64.5,75.5,1,3,Medium,Visual,Yes,64.9,1,Good,Low
+STU00132,24.0,Year 4,38.1,72.8,5.7,2,62.1,6.8,39.1,41.3,5,2,Low,Visual,Yes,41.5,1,Average,Medium
+STU00301,19.0,Year 3,76.6,59.0,9.2,3,55.6,4.2,46.5,47.7,2,2,Medium,Reading,Yes,68.9,1,Good,Low 
+STU00933,18.0,Year 3,48.5,73.3,0.8,0,77.0,4.9,22.9,37.6,1,1,Low,Practice,Yes,46.3,1,average,Medium
+STU00327,19.0,Year 2,48.2,75.6,7.2,3,45.5,8.4,39.1,55.8,0,1,Medium,Practice,Yes,53.1,1,Average,Medium
+STU00145,19.0,Year 1,50.3,78.4,3.5,1,47.5,5.6,57.1,60.6,1,2,Low,Practice,Yes,53.8,1,Average,Medium
+STU00498,24.0,Year 2,57.9,87.4,1.8,0,88.0,7.6,30.4,51.6,3,2,Low,Auditory,Yes,47.7,1,Average, Medium 
+STU00678,24.0,Year 4,69.6,83.3,1.8,2,88.2,8.1,58.1,55.2,2,2,Low,Reading ,No,62.0,1,Good,Low
+STU00951,17.0,Year 3,49.3,79.8,1.8,0,59.0,7.6,60.2,40.3,2,3,Low, READING,Yes,69.7,1,GOOD,Low
+STU00136,22.0,Year 2,85.2,100.0,9.9,3,90.2,7.0,74.5,55.3,3,2,Medium,Visual,Yes,79.9,1,Excellent,Low
+STU00782,24.0,Year 1,50.7,94.0,2.8,2,66.8,6.5,39.7,46.1,2,3,Low,Visual,Yes,52.8,1,Average,Medium
+STU00165,24.0,Year 4,38.6,86.7,4.5,3,90.8,9.1,33.5,60.3,4,5,Medium,Reading,Yes,56.3,1,Average,Low
+STU00029,21.0,Year 1,58.9,71.1,3.3,2,77.4,6.3,55.2,64.3,1,2,Low,Auditory,Yes,59.6,1,Average,Low
+STU00961,24.0,Year 4,71.9,72.6,3.0,4,82.3,7.2,54.5,55.5,2,4,Medium,Practice,Yes,54.2,1,Average,Medium
+STU00194,18.0,Year 3,43.4,54.4,8.1,3,78.0,7.8,44.2,34.8,4,4,Medium,Auditory,Yes,31.4,0,Poor,High
+STU00962,20.0,Year 3,85.4,81.9,1.7,1,81.2,7.9,35.7,48.8,0,2,Low,Practice,Yes ,75.4,1,Excellent,Low
+STU00644,20.0,Year 3,85.2,95.9,2.8,1,50.8,,86.1,73.8,2,3,Low,Auditory,Yes,85.8,1,Excellent,Low
+STU00170,24.0,Year 4,42.1,80.9,3.4,2,84.0,6.4,41.3,50.3,0,1,Low,Auditory,Yes,44.2,1,Average,Medium
+STU00986,22.0,Year 2,71.2,50.7,0.3,2,,8.4,50.6,43.1,2,4,Low,Practice,Yes,52.7,1,Average,Medium
+STU00141,22.0,Year 3,63.2,66.7,3.8,2,76.5,8.3,46.7,54.9,2,2,Low,Visual,Yes,47.6,1,Average,Medium
+STU00174,23.0,Year 1,74.8,67.4,3.4,2,63.6,8.0,43.9,44.8,2,3,Low,Visual ,Yes,64.7,1,Good,Low
+STU00007,20.0,Year 3,69.6,100.0,2.5,2,67.7,4.3,60.7,66.2,3,1,low,Visual,Yes,60.7,1,Good,Low
+STU00897,22.0,Year 1,95.2,85.8,5.5,1,75.8,8.3,84.0,74.5,0,3,Low,practice,Yes,95.1,1,Excellent,Low
+STU00482,23.0,Year 2,75.5,69.7,3.3,1,67.7,5.2,57.4,67.9,2,3,Low,Visual,Yes,73.4,1,Good, LOW
+STU00074,19.0,Year 4,47.6,94.7,12.1,3,45.7,6.8,77.7,56.8,2,2,Medium,Visual,Yes,70.2,1,Good,Low
+STU00690,24.0,Year 4,46.3,71.7,5.3,2,92.0,5.9,49.8,44.7,1,3,Low,Visual,Yes,31.9,0,Poor,high
+STU00584,22.0,Year 1,65.8,81.4,3.4,2,94.7,8.1,44.8,58.4,2,3,Low ,Practice,No,62.7,1,Good,Low
+STU00239,20.0,Year 2,50.8,74.2,5.1,1,100.0,6.9,51.8,73.1,3,4,Low,Practice,Yes,67.4,1,Good,Low
+STU00146,20.0,Year 2,98.0,100.0,16.2,4,80.7,9.3,115.0,68.8,1,2,Medium,Visual,Yes,89.2,1,Excellent,Low
+STU00800,20.0,Year 3,66.7,78.7,6.5,0,96.5,8.7,58.2,49.1,1,3,Low,Auditory,Yes,81.0,1,Excellent,Low
+STU00235,21.0,Year 4,68.9,63.0,4.4,2,57.7,6.5,67.2,49.1,0,2,Low,Practice,Yes,70.8,1,Good,Low
+STU00221,24.0,Year 1,66.0,86.9,4.4,1,78.4,6.4,51.0,45.5,3,4,low,Reading,Yes,49.7,1,Average, Medium 
+STU00479,17.0,Year 3,52.5,79.2,5.8,2,59.2,6.0,25.0,45.7,2,2,Low, VISUAL,Yes,53.1,1,Average,Medium
+STU00719,21.0,Year 4,53.0,76.3,1.3,1,22.5,5.7,-8.0,63.1,3,3,Low,Auditory,Yes,47.1,1,average,Medium
+STU00133,21.0,Year 3,79.7,85.7,5.2,3,88.3,6.9,55.1,76.0,1,3,Medium,Reading,Yes,67.5,1,Good,Low
+STU00522,17.0,Year 1,52.5,66.5,4.0,2,65.8,5.9,44.7,44.6,2,1,Low,Visual ,No,46.3,1,Average,MEDIUM
+STU00985,22.0,Year 3,49.1,86.2,3.7,2,76.3,9.0,43.0,64.1,0,2,Low,Reading,Yes,53.8,1,Average,Medium
+STU00186,19.0,Year 1,48.2,93.3,3.9,1,75.3,6.7,68.7,53.6,3,1,Low,Visual,Yes,71.6,1,Good,Low
+STU00042,24.0,Year 1,63.5,73.7,1.7,1,81.0,7.4,49.6,36.8,2,2,Low,Reading,Yes,53.7,1,Average,Medium
+STU00617,24.0,Year 1,,71.2,4.0,3,91.7,6.5,56.2,60.9,3,2,Medium,Auditory,No,70.5,1,Good,Low
+STU00109,19.0,Year 2,77.0,97.9,3.8,2,90.7,7.2,62.5,66.0,1,5,Low,Practice,Yes,68.0,1,Good,low
+STU00595,,Year 4,89.2,87.9,9.4,4,82.5,7.3,66.1,67.8,2,2,Medium,practice, YES,86.4,1,Excellent,Low
+STU00057,22.0,Year 4,76.1,86.6,6.0,3,72.8,8.1,59.1,60.0,3,4,Medium,Auditory,Yes,73.4,1, GOOD,Low
+STU00409,20.0,Year 3,60.1,87.9,3.1,2,99.8,9.4,58.4,70.1,4,3,Low,Visual,Yes,68.8,1,GOOD,Low
+STU00446,24.0,Year 4,67.9,62.0,4.8,3,59.1,7.7,39.5,49.0,1,2, Medium ,Reading,Yes,63.0,1,Good,Low
+STU00568,22.0,Year 4,73.3,100.0,10.0,2,93.9,5.0,78.3,70.2,4,2,Low,Auditory,No ,68.6,1,Good,Low
+STU00869,23.0,Year 2,86.8,86.5,2.6,2,47.4,8.1,64.4,54.6,2,1,Low ,Auditory,No,56.4,1,Average,Low
+STU00025,17.0,Year 3,55.5,60.5,4.9,5,83.3,7.2,40.1,60.3,0,4,High,Visual,Yes,58.7,1,Average,medium
+STU00421,19.0,Year 2,69.1,84.0,1.8,1,88.5,5.6,48.2,42.7,1,2,Low,Reading,Yes ,59.4,1, Average ,Low
+STU00450,18.0,Year 4,45.1,59.8,4.5,3,62.5,6.3,,49.7,1,3,Medium, PRACTICE,Yes,55.9,1,Average,Medium
+STU00536,24.0,Year 3,93.2,83.7,7.2,1,94.6,7.6,69.6,74.0,3,6,Low,Practice,Yes,82.0,1,Excellent,Low
+STU00779,20.0,Year 4,65.6,70.7,4.6,2,48.4,6.0,59.4,49.3,2,4,Low,Practice,Yes,66.7,1, GOOD,Low 
+STU00661,20.0,Year 2,82.2,57.8,17.3,4,96.8,6.9,59.8,83.6,3,3,Medium,Visual,Yes,72.7,1,Good,Low
+STU00935,23.0,Year 3,65.2,100.0,4.2,0,90.7,7.0,70.5,76.6,5,3,low,Reading,Yes,67.8,1,GOOD,Low
+STU00339,17.0,Year 3,77.0,100.0,6.4,1,90.4,6.8,74.7,89.4,2,1,Low,Reading,Yes,95.7,1,Excellent,low
+STU00052,19.0,Year 2,40.9,99.8,9.4,1,77.3,8.7,49.5,64.6,2,1,Low,Practice,Yes,62.5,1,Good,Low
+STU00716,20.0,Year 1,79.3,70.9,7.4,1,89.6,6.8,57.4,58.3,1,3,Low,visual,Yes,61.9,1,Good,Low
+STU00520,24.0,Year 2,29.2,60.9,6.4,3,73.7,5.7,45.5,35.6,2,3,Medium,Auditory,Yes,43.8,1,Average,Medium
+STU00929,18.0,Year 3,61.9,89.5,10.2,2,74.4,7.1,57.5,45.7,2,1,Low,Reading,Yes,67.8,1,good,Low 
+STU00639,,Year 3,55.4,91.3,3.9,2,56.0,8.4,63.4,48.9,3,2,Low,Practice,No,54.2,1,Average,Medium
+STU00265,17.0,Year 1,50.9,76.2,6.8,3,44.8,6.4,46.6,,2,2,Medium, PRACTICE,Yes,63.9,1,Good,Low
+STU00542,24.0,Year 3,84.2,84.3,2.1,2,35.0,7.2,43.3,53.5,3,2,Low,Practice,Yes,56.0,1,Average,Low
+STU00718,22.0,Year 4,81.1,70.7,6.5,3,82.1,8.8,71.9,62.9,1,1,Medium,Auditory,Yes,75.0,1,Excellent,Low
+STU00689,22.0,Year 1,54.6,66.4,4.7,2,91.7,5.5,50.6,48.3,2,4,Low,Reading,Yes,60.9,1,Good,Low
+STU00590,19.0,Year 2,78.4,88.7,6.0,2,71.2,7.2,54.8,88.1,3,3,Low,Practice,Yes,65.1,1,Good,Low
+STU00523,18.0,Year 1,98.0,79.4,8.7,4,80.9,6.8,77.5,69.6,0,2,Medium,Practice ,Yes,82.1,1,Excellent,Low
+STU00451,23.0,Year 4,85.3,70.4,6.3,2,,8.9,55.9,33.3,2,2,low,Practice,Yes,48.6,1,Average,Medium
+STU00019,22.0,Year 1,41.8,,4.7,2,36.5,8.2,25.5,,1,3,Low,Practice,Yes,40.0,1,Average, Medium 
+STU00723,17.0,Year 2,58.8,85.7,5.8,3,98.7,7.0,73.9,63.1,0,3,Medium,Reading,Yes,68.2,1,GOOD,Low
+STU00487,18.0,Year 1,78.5,83.2,2.6,0,76.5,6.4,65.0,69.1,2,3,Low,Reading,Yes,78.5,1,Excellent,Low
+STU00573,22.0,Year 1,67.3,75.1,2.6,3,79.8,7.7,41.9,49.4,1,1,Medium,Auditory,yes,63.7,1,Good,Low
+STU00437,22.0,Year 2,82.1,90.7,5.9,0,90.3,6.3,69.8,72.6,4,2,Low,Auditory,Yes,76.3,1,Excellent,Low
+STU00368,18.0,Year 1,54.5,76.1,0.8,1,93.3,5.9,39.6,56.6,7,4,Low,Auditory,Yes,44.5,1,Average,MEDIUM
+STU00084,22.0,Year 1,64.0,85.5,4.8,2,81.1,7.5,44.7,60.7,2,3,Low ,Visual,No,59.7,1,Average,Low
+STU00062,21.0,Year 3,67.0,84.4,1.9,2,84.5,6.2,35.3,61.1,2,1,Low,Visual,Yes,63.9,1,Good,Low
+STU00441,19.0,Year 1,58.8,58.8,1.8,1,37.2,5.7,47.6,40.2,3,3,Low,Reading,Yes,36.4,0,poor,High
+STU00273,19.0,Year 3,86.2,92.3,4.7,2,90.1,8.5,60.6,77.5,2,2,Low,Reading ,Yes,78.4,1,Excellent,Low
+STU00286,23.0,Year 4,43.8,87.4,3.9,0,67.0,,64.2,61.0,1,4,Low,Practice,Yes,59.0,1,Average,Low
+STU00361,22.0,Year 3,75.8,60.6,1.3,2,35.9,5.4,24.1,66.0,3,3,Low,Visual,Yes,46.5,1,Average,Medium
+STU00355,19.0,Year 4,58.4,75.2,4.1,0,56.0,8.7,40.2,53.4,0,3,Low,visual,Yes,65.6,1,Good,Low
+STU00653,24.0,Year 3,90.2,84.2,5.6,1,74.0,6.8,65.2,77.7,3,2,Low,Practice,Yes,77.1,1,Excellent,Low
+STU00279,19.0,Year 2,43.4,69.3,2.7,1,67.5,7.6,26.9,34.6,2,2,Low,Auditory,Yes,44.1,1,Average,Medium
+STU00013,18.0,Year 3,36.2,76.3,4.8,2,82.8,,32.8,48.4,3,3,Low,Visual,Yes,44.2,1,Average,Medium
+STU00183,21.0,Year 3,50.6,93.7,12.5,4,64.8,7.4,51.9,68.2,1,1,Medium,Practice,Yes,67.0,1,Good,Low
+STU00369,18.0,Year 2,71.7,100.0,4.3,2,89.5,,51.6,63.4,1,1,Low,Visual,Yes,63.8,1,Good,Low
+STU00496,18.0,Year 3,79.7,75.3,1.0,1,96.7,7.9,53.7,64.9,2,3,Low,Practice,Yes,71.0,1,Good,Low
+STU00622,20.0,Year 1,68.1,78.1,,2,88.7,6.3,50.2,53.6,0,5,Low,Reading,Yes,66.6,1,Good,Low
+STU00224,20.0,Year 2,42.4,,2.9,2,59.6,6.2,,38.7,2,2,Low,Visual,Yes,28.0,0,Poor,High 
+STU00811,21.0,Year 4,62.5,66.0,12.6,4,76.0,6.8,58.2,67.9,3,2,Medium,Visual,Yes,75.5,1,Excellent,Low
+STU00706,19.0,Year 3,49.3,96.5,7.5,3,94.2,7.7,61.2,33.6,0,1,Medium, VISUAL,Yes,59.8,1,Average,low
+STU00507,20.0,Year 2,67.5,86.0,13.2,5,82.7,5.4,65.5,58.4,0,2,High,Practice, NO,68.2,1,GOOD,Low
+STU00550,18.0,Year 2,51.3,70.9,5.7,2,75.5,5.4,44.8,48.7,0,4,Low,Visual,Yes,70.7,1,Good,Low
+STU00589,24.0,Year 3,86.9,78.1,5.6,2,82.4,7.6,54.0,60.7,3,1,Low,Practice,Yes,79.3,1,Excellent,Low
+STU00738,18.0,Year 2,79.5,100.0,7.6,3,67.8,5.1,87.0,62.4,0,1,Medium,Practice,Yes,87.6,1,Excellent,Low
+STU00177,17.0,Year 3,83.5,68.4,1.9,1,59.2,7.9,50.9,50.4,3,2,Low,Reading,Yes,56.8,1,Average,Low
+STU00741,18.0,Year 1,57.9,91.6,5.3,2,99.8,6.9,65.4,62.0,4,2,Low,Practice,No,68.2,1,Good,Low
+STU00634,21.0,Year 4,76.7,72.9,7.5,2,86.1,8.6,52.0,77.2,2,2,Low,Practice,Yes,67.7,1,Good,Low
+STU00592,20.0,Year 4,60.7,78.8,6.1,1,94.5,5.1,49.3,45.3,4,1,Low,Practice,Yes,49.1,1,Average,Medium
+STU00591,17.0,Year 2,53.5,96.9,15.6,4,72.7,8.0,62.8,60.4,2,4,Medium,Auditory,Yes,81.3,1,Excellent,Low
+STU00394,18.0,Year 1,63.1,77.0,3.1,1,54.7,8.4,29.9,43.8,2,5,Low,Reading,Yes,42.8,1,Average, Medium 
+STU00164,24.0,Year 1,53.0,86.3,3.1,2,83.1,5.7,74.2,52.0,3,2,Low,Auditory,Yes,54.2,1,Average,Medium
+STU00249,18.0,Year 2,81.6,94.4,65.0,1,81.5,5.7,42.9,60.7,0,4,Low,Practice,no,78.2,1,Excellent,Low
+STU00708,19.0,Year 2,60.1,68.9,2.0,2,45.2,6.8,36.0,49.2,3,4,Low,Reading, YES,47.2,1,Average,medium
+STU00894,24.0,Year 1,48.8,83.8,6.0,1,71.0,6.9,57.6,71.2,2,1,Low,Auditory,Yes,62.4,1,Good,Low
+STU00676,21.0,Year 2,64.6,87.8,8.0,1,76.8,7.9,69.6,67.8,3,1,Low,Visual,Yes,64.7,1,Good,Low
+STU00376,24.0,Year 3,75.8,100.0,7.8,2,100.0,8.6,63.2,74.9,4,1,low,Auditory,Yes,71.9,1,Good,Low
+STU00413,24.0,Year 4,66.8,81.9,3.0,1,89.3,7.2,71.8,68.1,3,4,Low,Practice,Yes,72.3,1,Good,Low
+STU00075,22.0,Year 1,68.6,78.1,5.2,2,83.1,7.5,66.4,58.3,1,2,low,auditory,Yes,77.4,1,Excellent,Low
+STU00114,24.0,Year 2,82.9,69.1,2.1,1,66.8,8.8,45.0,50.4,0,4,Low, PRACTICE,Yes,58.6,1,Average,Low
+STU00579,24.0,Year 2,49.2,59.9,2.8,1,81.2,7.9,,48.8,1,4,Low,Reading,Yes,48.8,1,Average,Medium
+STU00939,24.0,Year 2,50.6,79.2,0.6,1,55.8,8.7,17.1,59.4,2,4,Low,Reading,Yes,39.8,0,Poor,High
+STU00391,20.0,Year 1,69.8,85.9,5.1,2,75.2,8.4,51.7,65.2,0,2,Low,Reading,Yes,69.6,1,Good,Low
+STU00105,23.0,Year 1,38.5,70.1,7.4,0,52.2,7.9,53.5,50.6,2,2,Low,Visual,Yes ,60.1,1,GOOD,Low
+STU00115,22.0,Year 4,76.6,95.4,5.7,2,94.1,6.5,59.7,87.2,2,4,Low,Visual,Yes,81.3,1,Excellent, LOW
+STU00418,19.0,Year 3,98.0,98.7,4.3,1,82.0,5.8,66.7,67.6,3,2,Low,Visual,Yes,91.4,1,Excellent,Low
+STU00594,17.0,Year 1,61.0,76.9,5.2,1,79.1,5.4,60.0,60.6,2,2,Low,Practice,Yes ,55.1,1, Average ,low
+STU00458,24.0,Year 1,54.5,76.2,3.8,3,,8.0,43.1,62.5,0,3,Medium,Practice,No,68.2,1,Good, LOW
+STU00410,17.0,Year 4,73.7,48.1,5.0,1,76.0,5.1,43.7,52.3,3,6,Low ,Visual,Yes,55.4,1,AVERAGE,Medium
+STU00093,23.0,Year 4,70.6,89.4,6.6,1,80.4,10.6,67.1,53.7,1,3,Low,Reading,Yes,71.0,1,Good, LOW
+STU00569,20.0,Year 1,75.8,81.1,5.2,2,74.4,7.2,65.3,59.4,3,2,Low,Practice,Yes,63.3,1,Good,Low
+STU00090,17.0,Year 1,76.6,63.0,3.8,3,57.2,8.8,48.2,52.2,0,3,Medium,Auditory,Yes,58.9,1,Average,Low
+STU00337,20.0,Year 1,78.6,75.5,8.6,4,60.5,7.3,78.6,75.0,2,3, Medium ,Practice, YES,72.4,1,Good,low
+STU00999,20.0,Year 3,67.1,71.8,5.3,3,,8.7,26.8,46.5,2,5,Medium,Visual,Yes ,48.2,1,average,Medium
+STU00930,22.0,Year 3,53.5,52.6,3.3,1,90.0,8.6,53.5,45.9,0,4,Low, AUDITORY,Yes,43.9,1,Average,Medium
+STU00942,24.0,Year 1,44.6,77.9,3.0,1,20.9,7.4,27.2,61.3,1,2,Low,Practice,Yes,43.4,1,Average,Medium
+STU00612,24.0,Year 2,55.4,87.6,3.2,0,76.2,7.1,48.9,34.4,1,6,Low,Visual,Yes,62.2,1,Good,Low
+STU00600,20.0,Year 1,56.8,77.2,5.0,4,52.4,4.6,31.2,37.8,2,5,Medium,Reading,No,26.3,0,Poor, HIGH
+STU00618,17.0,Year 1,74.0,,-2.0,1,75.7,5.9,56.1,67.6,5,1,Low,Visual,Yes,67.1,1,Good,Low
+STU00095,18.0,Year 4,78.3,88.9,3.0,1,53.4,5.5,64.4,71.3,4,4,Low ,Reading,Yes ,62.5,1,Good,Low
+STU00012,20.0,Year 1,43.1,59.2,14.8,3,52.2,,43.9,46.9,2,6,Medium,reading,Yes,41.6,1,Average,Medium
+STU00397,24.0,Year 3,59.7,74.1,2.7,3,73.4,7.0,47.4,42.6,4,2,Medium,Practice, YES,54.9,1,Average,Medium
+STU00874,18.0,Year 1,72.8,100.0,1.3,1,83.7,4.2,60.9,55.0,5,1,Low,Visual,Yes,56.9,1,Average,Low
+STU00044,22.0,Year 1,71.6,84.0,13.4,4,63.5,8.1,71.4,66.2,2,1,Medium,Reading,Yes,60.3,1,Good,Low
+STU00043,22.0,Year 2,81.3,80.1,7.1,2,76.5,7.5,52.7,54.2,1,3,low,Visual,Yes,66.0,1,Good,Low
+STU00330,18.0,Year 2,98.0,75.6,9.6,3,100.0,8.2,76.7,,0,1,Medium,Practice,Yes,100.0,1,Excellent,Low
+STU00168,23.0,Year 1,46.1,65.0,5.7,1,54.5,6.5,33.4,39.4,3,8,Low,Visual,No,27.1,0,Poor,High
+STU00501,22.0,Year 4,84.4,94.7,3.9,2,56.8,6.8,62.7,71.1,1,2,Low,Practice,Yes,62.4,1,Good,Low
+STU00885,19.0,Year 1,71.9,100.0,9.4,2,99.4,6.1,88.4,76.3,5,2,Low,Reading,Yes,86.1,1,Excellent,Low
+STU00604,21.0,Year 4,81.9,79.7,1.0,2,57.2,5.9,70.1,49.9,1,3,Low,Visual,Yes,68.0,1,Good,Low
+STU00893,19.0,Year 2,56.5,87.1,4.4,4,71.8,8.3,47.6,58.7,0,3,Medium,Auditory,Yes,53.2,1,Average,Medium
+STU00101,24.0,Year 4,47.2,89.8,3.3,1,55.2,5.4,40.6,35.7,6,1,Low,Visual,Yes,37.2,0,Poor,High
+STU00427,,Year 2,56.6,80.9,6.2,2,82.9,8.2,43.9,69.0,3,4,Low, VISUAL,Yes ,66.4,1,Good,Low
+STU00179,22.0,Year 4,43.9,69.8,2.3,3,41.0,6.8,32.7,44.5,1,1,Medium,Auditory,yes,48.9,1,Average,MEDIUM
+STU00445,21.0,Year 4,60.2,72.2,7.1,2,59.6,5.4,73.5,64.9,7,2,Low,Practice,Yes ,59.0,1,Average,Low
+STU00417,21.0,Year 3,60.6,72.6,4.4,2,79.7,5.7,62.7,56.9,0,2,Low,Visual,No,58.1,1,Average,Low
+STU00654,19.0,Year 3,79.9,84.2,2.7,1,,6.4,67.4,76.6,1,3,Low,Practice ,Yes,71.6,1,Good,Low
+STU00891,18.0,Year 3,68.1,88.6,6.0,2,93.5,,57.2,58.7,1,1,Low,Practice,Yes,71.3,1,Good,Low
+STU00665,18.0,Year 4,74.9,93.5,5.6,3,58.2,4.2,41.8,68.0,1,7,Medium,Practice,Yes,47.2,1,Average,Medium
+STU00178,20.0,Year 2,54.6,83.2,6.2,1,55.3,6.7,50.6,34.8,4,1,Low,Auditory,Yes,61.8,1,Good,Low 
+STU00396,22.0,Year 1,77.3,77.9,12.9,3,68.5,6.7,52.7,78.1,0,3,Medium,Practice,Yes,81.9,1,Excellent,Low
+STU00683,20.0,Year 4,61.4,84.2,5.1,2,91.8,8.4,48.1,65.9,4,2,Low,Practice,Yes,64.0,1,Good,Low
+STU00802,20.0,Year 3,52.7,92.8,8.8,3,30.3,6.5,73.6,60.7,4,4,Medium,Practice,Yes,77.1,1,Excellent,Low
+STU00971,21.0,Year 2,73.2,100.0,15.1,2,69.5,7.8,75.0,78.1,2,1,Low,Auditory,Yes,67.1,1,GOOD,Low
+STU00981,22.0,Year 2,56.9,72.6,6.2,2,56.6,6.9,41.6,38.7,2,4,Low,Auditory,Yes,42.0,1,Average,Medium
+STU00384,20.0,Year 3,96.9,65.5,1.3,0,70.7,6.8,39.3,69.0,5,5,Low,Practice,Yes,49.5,1,Average,Medium
+STU00967,18.0,Year 4,53.4,79.5,5.6,3,54.7,7.9,38.2,47.1,2,5,Medium,Practice,Yes,41.3,1,Average,Medium
+STU00619,22.0,Year 1,67.5,89.0,2.9,2,93.5,8.5,55.1,63.8,1,3,low,Practice,Yes,72.5,1,Good,Low
+STU00258,22.0,Year 4,88.2,77.4,7.9,4,62.3,6.7,60.2,83.7,1,1,medium, READING,Yes,75.0,1,Excellent,Low
+STU00336,21.0,Year 1,52.7,,10.6,5,68.2,7.4,69.9,69.4,2,1,High,Auditory,Yes,60.9,1,Good,Low
+STU00016,19.0,Year 1,53.2,69.8,6.7,3,71.6,6.9,54.8,68.8,1,1,Medium,Practice,Yes,71.4,1,Good,Low
+STU00636,17.0,Year 2,56.1,97.1,8.9,3,40.7,9.9,54.2,56.5,0,1,Medium,Visual,Yes,62.9,1,Good,Low
+STU00325,22.0,Year 3,65.1,65.3,0.6,3,79.3,7.3,32.2,48.8,0,2,Medium,Visual,Yes,52.6,1,Average,medium
+STU00766,21.0,Year 1,70.7,90.4,5.4,2,71.9,8.5,58.8,61.4,2,3,Low,Practice,Yes,64.3,1,Good,Low
+STU00223,17.0,Year 3,61.7,58.2,4.6,2,73.9,6.8,45.7,39.4,3,2,Low,Reading,Yes,53.5,1,Average,Medium
+STU00180,20.0,Year 2,59.8,100.0,5.2,2,85.9,7.4,71.1,45.0,3,2,Low,Reading ,Yes,63.9,1, GOOD,Low
+STU00994,23.0,Year 4,98.0,75.3,3.9,2,72.5,5.7,43.8,74.3,2,3,Low,Visual,Yes,68.5,1,Good,Low
+STU00522,17.0,Year 1,52.5,66.5,4.0,2,65.8,5.9,44.7,44.6,2,1,Low,Visual ,No,46.3,1,Average,MEDIUM
+STU00023,22.0,Year 4,60.9,87.6,10.6,4,64.7,6.5,38.7,40.9,3,2,Medium,Practice,Yes,57.8,1,Average,Low 
+STU00357,20.0,Year 1,74.2,76.4,2.4,1,24.8,7.6,47.5,57.5,5,6,Low,Practice,yes,63.6,1,Good,Low
+STU00680,19.0,Year 4,69.8,77.9,2.1,2,57.1,6.1,60.0,47.2,2,8,Low,Practice,Yes,67.5,1,Good,Low
+STU00870,18.0,Year 2,83.7,86.2,9.5,3,86.9,6.1,76.9,84.1,0,4,Medium, READING,Yes,75.3,1,Excellent,Low
+STU00341,20.0,Year 1,71.8,82.8,,2,58.7,5.7,60.4,67.6,3,2,Low,Practice,Yes,49.9,1,Average,Medium
+STU00432,21.0,Year 3,54.5,82.8,9.9,4,55.9,7.8,51.8,57.0,0,3,Medium,Visual, NO,72.6,1,Good,Low
+STU00803,24.0,Year 2,63.8,63.0,1.6,0,56.7,7.3,23.9,35.5,2,4,Low ,Visual,Yes,46.0,1,Average,MEDIUM
+STU00842,22.0,Year 1,77.0,70.8,6.6,3,70.7,8.0,,43.8,2,1,Medium,Reading,Yes,54.3,1,Average,Medium
+STU00204,19.0,Year 3,98.0,87.4,4.2,2,70.6,8.6,65.1,62.5,2,3,Low, PRACTICE,Yes,63.8,1,Good,Low
+STU00637,19.0,Year 2,65.2,79.9,5.1,3,70.1,6.2,64.9,57.4,3,2,Medium,Reading,Yes,58.8,1,average,Low 
+STU00094,18.0,Year 2,70.8,69.2,1.7,0,87.9,7.4,65.0,56.1,3,5,Low, READING,Yes,56.7,1,Average,Low
+STU00807,19.0,Year 2,42.3,84.8,3.3,1,35.2,6.2,43.7,43.1,2,3,Low,Auditory,Yes,40.4,1,Average,Medium
+STU00069,19.0,Year 2,73.3,91.1,6.4,3,50.5,7.3,56.2,78.9,6,1,Medium,Practice,Yes,64.8,1,Good,Low
+STU00629,21.0,Year 1,79.7,64.4,4.7,2,47.3,5.4,49.0,64.4,2,5,Low,Visual,Yes,69.9,1,Good, LOW
+STU00285,22.0,Year 1,45.6,70.2,1.2,3,65.3,7.7,31.7,47.8,2,4,Medium,Practice,Yes,59.0,1, Average ,Medium
+STU00886,18.0,Year 3,61.5,64.7,6.5,3,93.2,8.0,54.1,61.9,1,5,Medium,Practice,No,53.7,1,Average,Medium
+STU00435,20.0,Year 3,75.9,80.9,3.8,2,65.4,6.1,79.8,,1,2,Low,Practice,Yes,61.0,1,Good,Low
+STU00154,21.0,Year 1,76.5,95.8,1.7,1,87.3,5.8,52.6,58.0,0,3,Low,Auditory,Yes,73.3,1,Good,Low
+STU00076,20.0,Year 1,96.6,87.3,7.0,3,99.1,5.3,62.8,67.4,2,6,Medium,Visual,Yes,78.9,1,Excellent,Low
+STU00738,18.0,Year 2,79.5,100.0,7.6,3,67.8,5.1,87.0,62.4,0,1,Medium,Practice,Yes,87.6,1,Excellent,Low
+STU00447,23.0,Year 1,50.3,42.5,7.3,1,35.3,7.0,34.9,25.1,5,2,Low ,Reading,Yes,28.2,0,Poor,High
+STU00189,20.0,Year 3,78.0,76.9,5.8,2,93.5,6.6,57.9,58.4,3,2,Low,Practice,Yes,63.8,1,Good,Low
+STU00272,19.0,Year 3,73.9,92.1,7.1,1,82.5,5.7,91.5,76.3,1,4,Low,Reading,Yes,72.8,1,Good,Low
+STU00237,18.0,Year 4,75.9,80.6,0.8,2,87.5,6.7,57.6,57.9,3,3,Low,Auditory,Yes,71.0,1,Good,Low
+STU00488,17.0,Year 3,86.4,100.0,11.1,4,,5.1,65.4,71.3,2,1,Medium,Practice,Yes,85.0,1,Excellent,Low
+STU00118,21.0,Year 2,85.6,77.0,5.1,0,80.0,6.3,65.4,77.3,4,3,Low,Practice,Yes,68.8,1,good,Low
+STU00827,19.0,Year 1,59.5,83.7,7.4,3,72.5,7.6,54.7,57.7,2,2,Medium,Practice,Yes,60.4,1,Good,Low
+STU00513,24.0,Year 1,74.2,79.3,3.8,1,81.5,6.8,66.2,62.0,3,3,low,Auditory,No,62.5,1,Good,low
+STU00558,23.0,Year 2,40.3,100.0,3.5,1,85.2,8.4,55.2,55.7,1,3,Low,Practice,Yes,47.1,1,Average,Medium
+STU00598,22.0,Year 2,55.1,61.7,-2.0,3,83.2,7.1,50.1,54.8,2,2,Medium,Practice,Yes,54.0,1,Average,Medium
+STU00127,19.0,Year 2,92.2,91.2,5.6,1,,4.0,68.9,68.4,3,1,Low,Practice,Yes,84.4,1,Excellent,Low
+STU00117,24.0,Year 1,80.6,63.9,4.8,2,81.1,7.5,74.4,47.4,2,3,Low,Visual,Yes,53.4,1,Average,Medium
+STU00474,18.0,Year 2,84.4,91.5,5.2,2,91.2,7.1,57.0,73.1,1,3,Low,Practice,Yes,80.4,1,Excellent,Low
+STU00966,21.0,Year 3,33.7,77.4,4.3,2,46.2,6.9,46.3,34.1,0,4,Low,Visual ,Yes,45.0,1, Average ,Medium
+STU00058,22.0,Year 2,68.8,64.7,4.9,3,84.1,4.5,45.9,,2,4,Medium,Practice,Yes,46.0,1,AVERAGE,Medium
+STU00681,17.0,Year 3,71.0,98.9,4.8,2,82.8,8.6,43.2,64.5,2,3,Low,Visual,Yes,66.5,1,Good,Low
+STU00921,19.0,Year 1,72.0,-5.0,6.8,2,78.0,7.3,52.5,,2,3,Low,Visual,Yes,67.0,1,Good,Low 
+STU00370,,Year 4,44.1,61.8,3.2,1,82.7,7.8,30.3,33.4,4,3,Low,Visual,Yes,29.6,0,Poor,High
+STU00269,17.0,Year 1,69.6,77.4,7.8,3,70.8,8.7,78.5,82.5,1,1,Medium, AUDITORY,Yes,87.9,1,Excellent,Low
+STU00047,20.0,Year 1,72.7,75.6,1.6,2,85.3,5.5,55.0,44.6,2,3,Low ,Auditory, YES,62.6,1,Good,low
+STU00350,21.0,Year 3,81.1,84.7,4.7,1,83.2,6.5,79.4,59.1,3,1,Low,Reading,No,65.5,1,Good,Low
+STU00196,23.0,Year 2,70.4,100.0,3.6,2,84.6,7.3,54.6,64.9,2,1,Low,Practice,Yes,59.8,1,Average,Low
+STU00137,21.0,Year 2,50.4,,1.9,0,40.2,8.2,22.9,25.6,2,7, LOW,Reading,Yes,44.9,1,Average,Medium
+STU00843,23.0,Year 3,56.3,77.4,8.8,2,,5.8,59.1,46.3,0,2,Low,Auditory, YES,73.8,1,Good,Low
+STU00744,24.0,Year 1,52.5,100.0,5.7,3,51.4,5.8,50.5,49.8,2,3,Medium,Visual,Yes,59.1,1,Average,Low
+STU00264,21.0,Year 1,70.0,83.5,5.5,2,80.5,5.7,72.4,50.7,1,1,Low,Practice,Yes,65.3,1,Good,Low
+STU00444,18.0,Year 1,66.9,78.1,7.6,1,71.5,5.4,58.6,75.6,2,3,Low,Visual,Yes,68.3,1,Good,Low
+STU00810,,Year 4,56.4,,3.6,2,76.1,8.5,43.9,35.4,1,2,Low,Practice,Yes,46.8,1,Average,Medium
+STU00305,24.0,Year 3,57.1,67.2,7.3,2,54.0,5.5,53.6,49.9,0,3,Low,Visual,Yes,51.4,1,Average,medium
+STU00342,20.0,Year 2,50.8,71.1,4.8,1,67.5,9.5,45.8,36.0,4,2,Low,Practice,Yes,39.3,0,Poor,High
+STU00605,23.0,Year 3,65.5,81.2,0.3,1,88.9,,55.2,32.0,2,1,Low,Practice,yes,59.6,1,Average,Low
+STU00977,20.0,Year 1,76.9,61.9,1.3,1,41.5,7.3,40.0,51.3,1,1,Low,Practice,Yes,54.3,1,Average,Medium
+STU00150,23.0,Year 3,60.1,100.0,5.2,3,96.2,6.5,57.0,59.1,2,1,Medium,Visual,Yes,72.1,1,Good,Low
+STU00125,22.0,Year 2,98.0,95.5,9.9,3,54.1,8.5,80.2,74.1,1,3,Medium,practice,Yes,82.6,1,Excellent,Low
+STU00794,21.0,Year 2,55.5,94.5,11.5,3,,7.3,65.6,61.5,1,2,Medium,reading,Yes,79.2,1,Excellent,Low
+STU00831,24.0,Year 3,75.5,88.2,4.9,1,89.9,8.3,62.5,45.6,0,3,Low ,reading,Yes,59.2,1,Average,Low
+STU00051,18.0,Year 1,69.9,98.8,6.3,2,84.3,5.8,52.6,77.3,3,1,Low,Visual,Yes,68.9,1,Good,Low
+STU00354,20.0,Year 3,53.0,78.4,10.5,3,55.7,6.0,47.3,39.1,3,1,Medium,Practice,No,57.8,1,Average,Low
+STU00936,18.0,Year 4,76.1,90.6,,3,99.6,9.2,80.7,75.1,1,2,Medium,Practice,Yes,84.5,1,Excellent,Low
+STU00143,24.0,Year 2,55.9,61.0,,2,37.0,7.8,43.7,30.3,1,3, LOW,Visual,No,53.9,1,Average,Medium
+STU00471,24.0,Year 2,84.1,75.2,5.1,0,83.1,5.7,64.1,54.2,3,2,Low,Visual,Yes,69.3,1,Good,Low
+STU00400,22.0,Year 1,47.4,51.0,2.3,1,89.4,6.1,38.0,59.7,3,1,Low,Auditory,No,42.4,1,Average,medium
+STU00632,22.0,Year 3,27.4,64.8,5.3,0,61.9,6.0,21.2,21.0,2,2,Low,visual,Yes,30.0,0,Poor,High
+STU00321,17.0,Year 4,26.1,81.6,5.7,2,76.8,8.6,24.6,41.4,1,2,Low,Visual,Yes,50.6,1,Average,medium
+STU00020,20.0,Year 1,51.2,100.0,4.1,3,68.5,6.1,39.4,48.1,0,2,Medium,Auditory,Yes,40.1,1,Average,Medium
+STU00818,23.0,Year 3,84.6,89.4,13.0,5,94.8,7.3,68.9,68.6,2,2, HIGH, AUDITORY,Yes,74.1,1,Good,Low
+STU00801,23.0,Year 4,50.2,81.6,6.9,1,47.0,7.2,33.3,47.9,1,2,Low,Visual,Yes,64.9,1,Good,Low 
+STU00817,22.0,Year 1,56.2,64.9,12.4,4,36.6,5.2,47.3,35.4,1,3,Medium,Visual,Yes,57.4,1,Average,Low
+STU00408,22.0,Year 1,55.0,66.4,4.9,4,68.0,8.4,49.4,33.6,1,2,Medium,Practice,Yes,48.3,1,Average,Medium
+STU00538,20.0,Year 1,75.2,70.4,4.9,1,84.1,7.2,46.1,66.5,2,1,Low,practice,Yes,58.5,1,Average,Low
+STU00627,24.0,Year 2,40.0,77.1,3.2,2,61.7,8.9,39.0,38.6,2,3,Low,Visual,Yes,34.8,0,Poor,High
+STU00039,24.0,Year 3,70.2,97.3,5.6,2,76.6,7.1,62.1,57.5,0,2,Low,Reading,No,84.2,1,Excellent,Low
+STU00176,23.0,Year 4,62.0,79.3,5.7,2,,8.6,51.4,46.4,3,2,Low,Visual,Yes,63.8,1,Good,Low
+STU00246,23.0,Year 3,37.2,,2.3,3,,,38.0,,0,4,MEDIUM,Reading,No,50.6,1,Average,Medium
+STU00837,24.0,Year 4,54.2,88.6,1.3,0,70.9,7.5,73.4,29.4,3,3,Low,Visual,Yes,61.0,1,Good,Low
+STU00674,18.0,Year 1,44.5,70.2,5.6,1,91.5,5.7,39.2,63.6,1,1,Low,Practice,Yes ,58.2,1,Average,Medium
+STU00762,20.0,Year 4,76.1,97.5,14.1,3,49.5,6.6,75.3,75.5,2,1,Medium,Visual,No,79.4,1,Excellent,Low 
+STU00867,19.0,Year 1,49.2,71.1,1.5,0,67.9,5.5,43.9,23.7,2,3,Low,Practice,Yes,42.3,1,Average,Medium
+STU00155,22.0,Year 4,64.0,98.4,8.9,2,80.1,6.5,73.7,66.7,1,3,Low,Reading,Yes,75.9,1,Excellent,Low
+STU00288,23.0,Year 3,55.5,74.5,2.7,1,41.1,6.9,45.9,47.7,3,3,Low,Reading,No,36.3,0,Poor,High
+STU00821,21.0,Year 1,33.1,77.2,3.6,2,44.3,7.0,39.7,46.9,3,3,Low,Practice,Yes,26.9,0,Poor,High
+STU00570,,Year 2,54.1,77.6,2.0,1,61.9,5.6,53.1,43.1,5,4,Low,Practice,Yes,50.1,1,Average,Medium
+STU00751,18.0,Year 2,53.4,90.2,2.7,1,52.0,8.3,61.8,51.4,2,2,low,Auditory,Yes,60.1,1,Good,Low
+STU00018,22.0,Year 4,55.0,,,3,60.8,6.8,46.8,44.7,1,1,Medium,Practice,No,54.1,1,average,Medium
+STU00128,22.0,Year 1,74.2,85.9,8.3,4,100.0,7.7,55.0,66.8,1,1,Medium,Practice,Yes,66.1,1,Good,Low
+STU00323,19.0,Year 2,83.2,97.9,3.1,3,58.0,7.6,64.4,70.6,2,1,Medium,Visual,Yes,76.5,1,Excellent,Low
+STU00256,22.0,Year 2,46.4,68.3,8.0,4,74.7,7.8,38.5,35.8,0,4,Medium,Practice,yes,49.4,1,Average,Medium
+STU00775,21.0,Year 4,91.6,100.0,6.7,2,41.8,8.0,63.0,58.7,2,2,Low,Practice,Yes,68.2,1,Good,Low
+STU00975,17.0,Year 2,71.7,100.0,5.9,2,66.6,8.2,61.6,76.1,1,3,Low,Auditory,Yes,71.4,1, GOOD,Low
+STU00191,19.0,Year 3,47.0,67.4,9.1,3,42.9,8.1,52.2,40.0,3,4,Medium,Reading,Yes,46.9,1,Average,Medium
+STU00116,18.0,Year 1,52.2,,5.1,2,65.7,7.5,44.9,51.0,2,5,Low,Practice,Yes,52.0,1,AVERAGE,Medium
+STU00623,17.0,Year 1,80.7,69.4,1.2,2,28.8,7.5,44.1,50.1,0,4,Low,Reading,Yes,73.8,1,Good,Low
+STU00607,21.0,Year 3,39.0,75.3,5.9,3,74.4,7.4,31.4,34.2,5,2,Medium,Reading,Yes,33.9,0,Poor,High
+STU00181,22.0,Year 3,70.5,71.1,3.3,1,72.4,6.0,36.0,41.4,2,3,Low,Reading,yes,54.8,1,Average,Medium
+STU00302,18.0,Year 3,65.0,97.6,3.7,2,70.4,6.7,78.3,72.0,1,2,Low,Auditory,Yes,63.4,1,Good,Low
+STU00514,23.0,Year 2,98.0,76.9,8.7,3,93.3,7.4,66.7,82.4,3,2,Medium,Visual ,Yes,85.4,1,Excellent,low
+STU00900,18.0,Year 2,58.7,83.3,2.7,2,70.1,6.3,37.4,54.3,1,1,Low,Visual,Yes ,47.1,1,Average,Medium
+STU00731,24.0,Year 2,83.7,91.7,6.1,4,,7.6,68.2,64.7,5,2,Medium,Reading ,No ,70.3,1,Good,Low
+STU00844,20.0,Year 1,47.6,84.0,3.5,3,31.0,7.9,39.1,63.0,3,5,medium,Visual,Yes,55.3,1,Average,Low
+STU00668,24.0,Year 2,,77.1,15.6,5,59.5,7.8,55.2,43.3,0,4,High,Reading ,Yes,73.1,1,Good,Low
+STU00518,21.0,Year 1,51.7,73.5,4.7,4,84.4,5.2,40.9,57.1,0,4, Medium ,Reading,Yes,56.4,1,Average,Low
+STU00995,23.0,Year 4,79.4,74.5,2.8,1,19.9,8.1,45.8,43.2,0,4,Low,Reading,Yes,61.1,1,Good,Low
+STU00046,24.0,Year 2,41.8,59.1,1.3,0,61.1,6.8,40.1,39.0,0,3,Low,Auditory,Yes,59.9,1,Average,Medium
+STU00918,24.0,Year 2,58.6,79.6,9.4,2,48.7,6.7,,51.4,2,6,Low,Practice,Yes,55.7,1,Average,Low
+STU00158,22.0,Year 4,64.9,96.5,4.4,2,85.0,5.3,53.3,54.5,2,3,Low,Reading,Yes,61.5,1,Good,Low
+STU00752,17.0,Year 3,68.7,67.1,8.1,4,25.4,6.3,54.0,52.7,1,4,Medium,Practice,Yes,46.6,1, Average ,Medium
+STU00172,22.0,Year 3,75.0,70.6,4.9,3,58.8,6.2,41.8,68.4,0,2,Medium,Auditory,Yes,81.9,1,Excellent,Low
+STU00017,20.0,Year 1,59.8,63.2,6.5,4,89.0,7.4,70.8,52.1,0,4,Medium, AUDITORY,Yes ,70.4,1,Good,Low
+STU00512,23.0,Year 1,53.2,82.3,1.0,1,75.8,5.1,24.2,43.6,6,3,Low,Auditory,Yes,37.4,0,Poor,High
+STU00049,23.0,Year 2,77.3,96.3,0.7,0,62.9,5.5,51.3,64.1,2,3,Low,Practice,Yes,62.2,1,Good,Low
+STU00982,17.0,Year 1,59.0,53.9,2.7,0,61.2,7.6,60.9,37.9,2,2,Low,Practice,Yes,56.3,1,Average,Low
+STU00849,19.0,Year 1,63.4,87.7,12.7,3,51.7,6.5,71.2,62.6,2,3,Medium,Visual, YES,66.9,1,Good,Low
+STU00516,23.0,Year 2,71.2,100.0,5.2,2,94.6,6.8,57.9,70.8,1,1,Low ,Auditory ,Yes,81.0,1,Excellent,Low
+STU00693,,Year 3,79.1,74.7,2.7,1,97.9,5.8,62.3,59.2,1,1,Low,Reading,Yes,67.6,1,Good,Low
+STU00481,22.0,Year 4,73.2,88.5,3.1,2,,6.6,62.2,66.9,3,3,Low,Practice, YES,65.4,1,Good,Low
+STU00284,23.0,Year 1,53.9,89.8,8.6,2,59.0,8.7,41.1,56.6,1,2,Low,Visual,No,51.5,1,Average,Medium
+STU00850,19.0,Year 1,60.3,76.0,11.8,4,59.7,7.2,47.2,67.4,1,3,Medium,Practice , YES,72.3,1,Good,Low
+STU00661,20.0,Year 2,82.2,57.8,17.3,4,96.8,6.9,59.8,83.6,3,3,Medium,Visual,Yes,72.7,1,Good,Low
+STU00226,21.0,Year 1,71.7,-5.0,1.0,0,65.1,9.5,39.1,61.5,1,2,Low,Practice ,Yes,61.0,1,Good,Low
+STU00027,21.0,Year 2,66.6,92.1,4.6,3,71.5,7.2,80.7,58.0,2,1,Medium,Practice,Yes,78.1,1,Excellent,Low
+STU00790,23.0,Year 1,69.6,,1.2,1,60.3,7.1,32.2,49.3,0,4,Low,Reading,No,41.7,1,Average, Medium 
+STU00438,22.0,Year 3,78.0,93.8,6.5,2,46.8,8.0,44.8,58.6,2,3,Low,Auditory,Yes,69.2,1,Good,Low
+STU00960,20.0,Year 2,44.5,94.2,,1,87.5,7.7,27.4,43.7,2,3,low,Visual,Yes,46.6,1,Average,Medium
+STU00365,23.0,Year 3,53.1,82.2,2.8,2,67.1,7.1,61.1,50.2,1,3,Low,Visual,Yes,54.7,1,Average,Medium
+STU00230,24.0,Year 2,76.7,100.0,6.0,1,72.6,6.3,60.7,63.5,4,2,Low,Reading, YES,72.7,1,Good,Low
+STU00038,17.0,Year 3,61.5,94.7,1.7,1,76.4,6.9,54.2,65.0,3,4,Low,Practice,Yes,58.2,1,Average,Low
+STU00976,20.0,Year 1,60.4,88.2,3.3,0,94.9,7.5,34.1,62.3,5,3,Low,Practice,Yes ,51.4,1,Average,Medium
+STU00375,,Year 4,50.0,98.3,7.5,3,89.0,7.5,69.1,60.4,1,1,Medium,practice,Yes,63.0,1,Good,low
+STU00470,18.0,Year 2,89.2,76.1,2.3,4,90.3,5.1,62.9,58.3,0,1,Medium,Practice,Yes ,81.2,1,Excellent,Low
+STU00978,24.0,Year 1,48.3,70.7,6.3,2,,6.6,48.5,42.8,2,4,Low,Practice,yes,44.7,1,Average,Medium
+STU00859,22.0,Year 4,98.0,79.1,4.8,1,54.3,7.7,56.7,52.8,1,6,Low,Practice ,Yes,64.8,1,Good,Low
+STU00713,24.0,Year 4,31.2,83.2,2.2,2,53.6,,50.4,28.1,5,2,Low,Auditory,Yes,36.8,0,Poor,High
+STU00733,24.0,Year 1,80.4,61.6,13.0,4,100.0,6.2,84.2,59.9,5,2,Medium,Visual,yes,72.9,1,Good,Low
+STU00195,22.0,Year 3,79.8,68.1,3.3,2,91.2,6.5,80.3,73.3,3,4,Low ,Visual,Yes,85.3,1,Excellent,Low
+STU00910,19.0,Year 4,33.7,77.8,5.1,2,79.9,5.5,64.6,44.7,1,3,Low ,Visual,Yes,57.7,1,Average,Low
+STU00873,23.0,Year 2,67.5,59.2,2.9,0,48.4,7.6,,41.9,1,4,low,Auditory,Yes,52.3,1,Average,Medium
+STU00504,17.0,Year 3,78.4,78.5,0.9,2,80.4,7.0,53.4,58.4,3,7,Low,Practice,Yes,72.3,1,Good, LOW
+STU00980,20.0,Year 4,76.9,95.5,3.2,2,74.6,8.4,52.9,66.0,1,3,Low,Auditory,Yes,66.4,1,Good,Low 
+STU00883,21.0,Year 1,42.2,77.4,7.0,3,60.4,6.7,35.6,66.3,3,2,Medium, PRACTICE,Yes,59.3,1,Average,Medium
+STU00580,21.0,Year 1,71.8,75.2,6.8,3,58.9,6.4,61.2,69.8,2,2,Medium,Visual,Yes,68.6,1,Good,low
+STU00979,19.0,Year 2,98.0,67.0,1.8,2,66.2,7.3,47.7,67.5,0,2,Low,Reading,Yes,63.5,1,Good,Low
+STU00163,20.0,Year 3,83.2,96.2,3.8,2,92.5,6.8,96.0,82.7,2,1,Low,Visual,Yes,84.2,1,Excellent,Low
+STU00709,22.0,Year 1,53.5,70.8,6.6,4,62.0,6.2,59.3,47.9,1,1,Medium,practice,Yes,51.6,1,Average,Medium
+STU00153,23.0,Year 1,44.8,65.5,8.4,2,60.7,7.0,67.9,,1,2,Low,Practice,Yes,56.6,1,Average,Low
+STU00688,21.0,Year 3,42.9,69.7,5.9,2,66.6,6.8,45.7,45.1,4,3,Low, PRACTICE,Yes,43.8,1,Average,Medium
+STU00707,22.0,Year 3,67.9,83.5,,2,55.1,7.5,49.9,53.5,2,1,Low,Visual, YES,64.3,1,Good,Low
+STU00763,19.0,Year 2,85.9,100.0,4.1,3,83.1,5.7,57.8,72.7,2,3,medium,Practice,Yes,51.8,1,Average,Medium
+STU00112,22.0,Year 3,83.4,91.7,9.0,3,82.7,7.2,65.8,64.6,1,4,medium,Practice,Yes,79.3,1,Excellent,Low
+STU00227,24.0,Year 2,65.1,93.6,4.0,2,92.9,7.2,77.7,64.5,1,3,Low,Auditory,Yes,74.0,1,GOOD,Low
+STU00695,24.0,Year 3,49.0,68.8,2.3,5,72.7,7.5,43.1,38.7,2,3,High,Practice,Yes,53.3,1,Average,Medium
+STU00104,18.0,Year 3,58.6,77.4,2.7,3,31.0,6.7,41.7,42.2,1,2,Medium,Practice,Yes,46.3,1,Average,medium
+STU00422,23.0,Year 2,93.0,100.0,6.8,3,83.2,6.9,64.6,77.2,2,4,Medium,Practice, YES,87.4,1,Excellent,Low
+STU00420,20.0,Year 4,34.0,57.4,0.4,1,50.2,,36.0,37.3,3,2,Low,Visual,No,32.3,0,Poor,High
+STU00758,22.0,Year 3,67.1,96.0,1.3,2,63.5,5.0,36.5,52.4,0,1,Low,Practice,Yes,52.5,1,Average,MEDIUM
+STU00587,19.0,Year 2,54.4,93.8,4.3,2,95.1,7.6,83.1,60.9,0,3,Low,Practice,Yes,80.9,1,Excellent,Low
+STU00788,17.0,Year 3,83.8,100.0,5.7,3,90.9,6.9,81.7,51.1,1,2,Medium,Visual, YES,83.2,1,Excellent,Low
+STU00673,23.0,Year 2,40.1,62.1,3.2,2,69.2,7.6,41.1,33.2,2,2,Low,Reading,yes,47.6,1,Average,Medium
+STU00120,22.0,Year 1,48.8,99.1,10.4,3,74.4,6.6,51.2,57.2,2,4,Medium,Reading ,Yes,63.1,1,Good,Low
+STU00054,24.0,Year 2,79.2,86.1,11.3,4,83.3,7.3,83.0,66.3,1,1,Medium,Auditory,No,78.0,1,Excellent,Low
+STU00152,19.0,Year 1,55.6,63.7,2.8,1,82.0,5.5,46.5,35.1,2,4,Low,Reading,Yes,46.8,1,Average,Medium
+STU00404,,Year 1,85.3,77.1,6.9,0,80.1,7.5,54.2,80.8,2,2,Low,Practice,Yes,78.2,1,Excellent,Low
+STU00954,20.0,Year 3,64.7,71.6,7.1,3,63.3,7.6,57.7,57.8,1,3,Medium, VISUAL,Yes,61.6,1,Good,Low
+STU00208,23.0,Year 2,50.4,87.6,1.1,1,66.4,5.2,40.2,45.9,3,2,Low,Practice, YES,43.4,1, Average ,Medium
+STU00659,22.0,Year 2,61.0,74.8,2.0,2,36.7,5.6,51.1,32.9,2,2,Low,Auditory,No,38.4,0,Poor, HIGH
+STU00852,20.0,Year 4,,78.9,4.7,2,54.2,6.0,62.9,50.1,3,3,low,reading,Yes,59.8,1,Average,Low
+STU00988,23.0,Year 3,73.1,,14.0,5,91.0,7.2,78.9,65.4,2,2,High,Practice,Yes,83.8,1,Excellent,Low
+STU00009,23.0,Year 1,65.9,100.0,9.8,3,96.2,7.9,54.9,76.9,3,3,Medium,Practice,Yes,64.8,1,Good,Low
+STU00909,18.0,Year 2,66.8,74.5,4.6,0,100.0,8.0,61.0,76.2,0,2,Low,Reading,Yes,84.9,1,Excellent, LOW
+STU00037,21.0,Year 3,74.6,98.5,5.2,2,93.0,8.1,73.8,70.4,2,5,Low,Auditory,Yes,87.2,1,Excellent,Low
+STU00453,17.0,Year 3,,71.4,1.5,1,56.2,5.5,62.9,54.9,2,4,Low,Visual,Yes,65.3,1,Good,Low
+STU00652,24.0,Year 1,42.4,80.4,5.2,3,49.3,6.3,21.2,51.5,2,1,medium,Auditory,No,47.5,1,Average,Medium
+STU00254,21.0,Year 3,59.5,72.1,10.0,3,55.9,8.4,59.9,60.6,1,3,Medium,Auditory,Yes,63.4,1,Good,Low
+STU00304,24.0,Year 3,72.5,94.6,5.2,3,81.1,7.7,41.1,52.9,3,3,Medium,Visual,Yes,68.3,1,Good,Low
+STU00754,22.0,Year 3,56.1,-5.0,6.8,2,57.6,5.5,38.0,,2,4,Low,Reading,Yes,40.7,1,Average,Medium
+STU00572,24.0,Year 2,66.4,82.2,9.2,2,84.4,8.3,55.8,55.1,2,5,Low ,auditory,Yes,76.4,1,Excellent,Low
+STU00624,24.0,Year 1,50.2,52.4,10.0,1,84.2,5.8,40.7,52.2,1,3,Low,Practice,Yes,43.7,1,Average,Medium
+STU00717,20.0,Year 1,69.8,85.4,4.5,2,74.5,6.3,54.0,38.5,3,2,Low,Visual,Yes,59.3,1,Average,Low
+STU00905,22.0,Year 3,52.5,68.2,6.9,3,65.1,,38.2,39.1,1,4,Medium,Practice ,Yes,45.5,1,Average,Medium
+STU00263,17.0,Year 1,75.8,85.1,5.1,2,80.8,9.0,59.8,56.1,6,5,Low,Practice,Yes,62.9,1,Good,Low
+STU00611,24.0,Year 2,55.8,89.4,5.1,3,84.5,6.6,49.8,48.1,3,4,Medium,Practice,Yes,67.3,1,Good,Low
+STU00298,20.0,Year 1,26.7,78.1,0.9,3,72.6,7.7,42.8,36.5,5,5,Medium,Reading,Yes,36.6,0,Poor ,High
+STU00415,19.0,Year 1,51.0,72.2,8.9,5,52.3,6.7,66.9,62.5,1,4, HIGH,Practice ,Yes,64.6,1,Good,Low
+STU00151,19.0,Year 1,68.9,65.4,3.0,1,51.7,6.9,61.4,53.5,6,2,Low,Reading,Yes,50.5,1,Average,Medium
+STU00984,23.0,Year 2,73.1,61.1,7.0,2,75.0,7.1,53.1,64.8,1,3,Low,Practice,Yes,54.6,1,Average,Medium
+STU00641,18.0,Year 4,45.7,69.2,4.4,3,62.1,6.8,42.0,35.0,1,1,Medium,Reading,Yes,43.1,1,Average,Medium
+STU00938,22.0,Year 3,62.2,78.5,3.9,1,89.7,6.9,71.6,65.0,1,2,Low,Visual,Yes,70.3,1,Good,Low
+STU00551,22.0,Year 4,45.1,91.1,4.3,3,50.1,6.3,48.6,40.1,0,5,Medium,Visual,Yes,52.1,1,Average,Medium
+STU00799,22.0,Year 1,68.8,81.7,1.2,2,67.4,,42.3,57.4,1,1,Low,Reading,Yes,48.0,1,Average,Medium
+STU00489,21.0,Year 4,51.4,83.8,5.9,2,49.0,8.0,43.8,55.5,4,3,Low,Reading,Yes,47.4,1,Average,Medium
+STU00711,17.0,Year 4,89.0,74.9,7.7,4,41.7,7.4,,34.9,0,4,Medium,Practice,Yes,58.2,1,Average,Low
+STU00148,24.0,Year 3,72.0,84.4,2.1,3,74.8,8.3,57.1,37.5,1,4,Medium,Practice,Yes,50.7,1,Average,Medium
+STU00147,18.0,Year 1,78.2,100.0,4.9,2,81.3,5.9,79.9,69.3,3,3,Low,Visual,Yes,78.2,1,Excellent,Low
+STU00854,17.0,Year 2,53.7,68.3,1.8,1,81.2,6.7,17.3,43.9,1,4,Low,Visual,Yes,52.2,1,Average,Medium
+STU00940,18.0,Year 3,77.6,82.2,6.2,2,83.3,6.1,72.5,71.3,3,1,Low,Auditory,Yes,68.0,1,Good,Low
+STU00747,,Year 1,72.8,93.7,5.3,2,98.8,7.7,78.8,69.7,0,3,Low,Practice,Yes,86.8,1,Excellent,Low
+STU00660,18.0,Year 1,62.6,88.3,4.9,3,74.1,8.5,48.2,39.2,2,1,Medium, PRACTICE,Yes,65.2,1,Good,Low
+STU00349,18.0,Year 2,77.4,61.3,3.4,2,81.8,6.8,38.0,51.3,3,2,Low,Auditory,Yes,63.7,1,Good,Low
+STU00464,21.0,Year 1,79.2,68.8,13.3,4,69.9,5.4,64.0,80.0,2,1, Medium , PRACTICE,No,78.8,1,Excellent,Low 
+STU00326,,Year 1,70.1,62.9,5.5,1,55.9,6.9,46.7,,3,2,Low,Auditory ,Yes,53.1,1,Average,Medium
+STU00187,,Year 2,61.2,71.2,4.4,2,97.2,8.2,34.6,61.9,2,3,low,Visual, YES,47.6,1,Average,Medium
+STU00124,21.0,Year 1,68.6,89.2,3.4,1,93.6,7.3,50.5,51.5,2,1,Low,Auditory, YES,52.5,1,Average,Medium
+STU00862,24.0,Year 1,71.9,100.0,6.1,2,80.2,7.6,66.5,58.4,2,3,Low,Reading,Yes,66.4,1,Good,Low
+STU00609,21.0,Year 2,55.7,85.9,0.6,2,92.3,7.2,41.3,,2,6,Low,Visual,Yes,62.8,1,Good, LOW
+STU00144,,Year 1,,72.4,4.9,2,79.7,5.9,51.0,60.6,3,2,low,Visual,Yes,62.1,1,Good,Low
+STU00969,22.0,Year 3,46.5,77.0,1.9,1,85.4,6.1,33.0,47.5,2,4,Low,Reading,Yes,50.8,1,Average,Medium
+STU00198,23.0,Year 3,38.2,62.8,0.0,1,52.8,8.0,34.3,30.2,1,3,Low,Visual,Yes,28.8,0,Poor,High
+STU00610,23.0,Year 1,46.1,83.5,4.0,4,93.5,7.6,63.9,49.1,0,1,Medium,Visual,No,61.0,1,Good,Low
+STU00280,22.0,Year 2,46.4,87.2,1.7,0,54.7,4.6,28.1,44.2,2,6,Low,Visual,Yes,34.4,0,Poor,High
+STU00294,22.0,Year 3,91.1,81.1,8.7,4,69.4,6.5,65.5,70.0,1,4,Medium,Practice,Yes,78.3,1,Excellent,Low
+STU00401,17.0,Year 3,63.7,85.7,8.7,2,93.8,8.1,64.4,50.9,3,2,Low,Reading,Yes,63.0,1,Good,Low
+STU00123,21.0,Year 3,46.3,92.7,3.3,3,58.8,6.3,48.1,54.5,1,2,Medium,Practice,Yes,54.5,1,Average,Medium
+STU00184,22.0,Year 1,71.0,94.4,4.5,2,74.9,5.1,,58.7,2,4,Low,Practice,No,68.1,1, GOOD,Low
+STU00203,17.0,Year 2,66.1,95.4,7.0,2,45.3,4.5,49.8,49.8,1,3,Low,Practice,yes,61.4,1,Good,Low
+STU00439,23.0,Year 1,62.0,69.9,0.6,2,58.1,7.1,36.3,43.0,2,2,Low,Practice,yes,41.3,1,Average,Medium
+STU00247,21.0,Year 3,61.1,55.7,4.7,2,77.1,7.3,48.4,54.7,2,3,Low,Auditory,Yes,50.7,1,Average,Medium
+STU00416,20.0,Year 1,80.5,95.4,4.4,2,80.1,8.2,66.8,70.0,1,3,Low,Practice,Yes,69.5,1,Good, LOW
+STU00784,23.0,Year 3,41.7,89.9,6.5,3,86.7,5.4,35.1,38.1,3,5,Medium,Auditory,Yes,49.6,1,AVERAGE,Medium
+STU00868,18.0,Year 2,63.9,82.0,4.0,3,92.4,7.1,42.7,39.1,1,1,Medium,Visual,No,57.9,1,Average, LOW
+STU00915,20.0,Year 2,50.8,74.8,5.0,1,72.4,9.4,32.7,42.5,2,2,Low,Visual,Yes,40.0,1,Average,MEDIUM
+STU00931,18.0,Year 4,80.4,68.6,9.4,3,83.0,6.8,66.6,71.6,1,1,Medium,Practice,yes,70.0,1,Good,Low
+STU00896,21.0,Year 4,62.3,84.0,2.9,1,,8.7,50.3,43.4,3,4,Low,Auditory,Yes,50.3,1,average,Medium
+STU00130,19.0,Year 2,67.3,56.2,6.6,1,73.0,7.5,36.3,55.7,0,5,Low,Auditory,Yes,72.8,1,Good,Medium
+STU00638,22.0,Year 3,54.7,74.6,1.0,2,79.7,5.9,40.8,40.8,2,5,Low,Visual,Yes,45.1,1,AVERAGE,Medium
+STU00403,22.0,Year 4,73.0,89.4,65.0,1,59.2,7.7,50.9,50.4,1,7,Low,Visual,Yes,50.2,1,Average,Medium
+STU00895,19.0,Year 3,57.1,54.5,3.7,1,94.4,5.2,58.2,56.4,1,3,Low,Auditory,Yes,64.8,1, GOOD,Low
+STU00778,24.0,Year 1,45.8,72.5,6.5,2,91.9,6.3,72.4,44.6,1,2,Low,Practice,Yes,57.9,1,Average,Low
+STU00736,18.0,Year 4,41.0,80.0,10.5,3,77.8,9.1,43.2,44.4,3,2,Medium,Auditory,Yes,72.0,1,Good,Low 
+STU00922,23.0,Year 1,47.6,68.4,7.9,3,66.9,7.0,42.0,50.1,1,1,Medium,Practice,Yes,42.2,1,Average,Medium
+STU00220,18.0,Year 4,63.7,60.0,,1,74.5,6.0,54.3,40.8,2,2,Low,Practice,Yes,56.7,1,Average,Low
+STU00642,20.0,Year 2,38.9,50.0,3.4,2,60.7,6.9,45.8,16.7,2,4,Low,practice,Yes,38.0,0,Poor,High
+STU00924,21.0,Year 1,63.7,87.8,2.6,2,77.6,6.4,73.8,63.9,1,4,Low ,Practice,Yes,73.1,1,GOOD,Low
+STU00760,20.0,Year 2,,75.9,2.9,2,61.1,6.1,30.8,50.5,0,2,Low,Practice,Yes,50.2,1,Average,Medium
+STU00815,18.0,Year 2,73.1,90.3,8.6,4,58.5,7.2,53.1,78.8,0,4,Medium,Practice,Yes,82.9,1,Excellent,Low
+STU00928,19.0,Year 3,43.4,91.8,6.8,3,41.7,6.5,29.3,38.7,2,2,Medium,Reading,Yes,47.6,1,Average,Medium
+STU00625,24.0,Year 2,63.6,67.9,5.3,2,,7.7,49.1,45.7,0,3,Low,Reading,Yes,62.2,1,Good,Low
+STU00847,23.0,Year 4,55.1,68.6,1.6,3,93.8,6.8,51.9,39.0,2,1,Medium,Practice,Yes,49.2,1,Average,Medium
+STU00768,24.0,Year 2,57.2,85.2,4.9,1,88.3,6.8,58.3,47.9,2,2,Low,Practice,yes,49.1,1,Average,Medium
+STU00387,24.0,Year 1,75.6,76.9,2.3,1,55.9,9.4,37.3,66.7,2,3,Low,Practice,Yes,61.4,1,Good,Low
+STU00983,23.0,Year 1,88.3,76.7,2.4,2,58.7,7.1,49.4,47.6,0,5,Low,Visual,Yes,62.0,1,Good,Low
+STU00510,17.0,Year 3,57.3,,8.0,3,55.4,7.4,67.9,55.1,1,2,Medium,Visual,Yes,51.7,1,Average,Medium
+STU00268,22.0,Year 1,55.6,87.8,10.0,3,80.7,8.2,54.4,59.5,2,3,Medium,Visual,Yes,61.1,1,Good,Low
+STU00828,24.0,Year 1,66.3,100.0,9.5,4,81.5,7.5,64.5,77.3,3,2,Medium,Reading,Yes,65.8,1,good,low
+STU00442,17.0,Year 2,73.6,81.8,6.0,2,98.9,5.3,80.9,71.4,3,4,Low,Reading,Yes,87.0,1,Excellent,Low
+STU00497,23.0,Year 1,62.3,68.9,1.6,0,81.5,6.9,36.3,56.8,2,3,Low, VISUAL,Yes,57.1,1,AVERAGE, LOW
+STU00113,24.0,Year 3,91.7,93.8,8.6,3,74.8,6.7,64.9,69.0,3,1,Medium,Practice,No,80.1,1,Excellent,Low
+STU00692,21.0,Year 2,66.5,73.0,3.8,4,,7.7,32.9,51.7,1,4,Medium,Reading,Yes,55.1,1,average,Low
+STU00233,24.0,Year 3,26.8,62.3,2.1,1,58.0,6.8,27.0,24.1,1,3,Low,Auditory ,Yes,35.1,0,Poor,High
+STU00878,24.0,Year 3,82.5,88.2,4.2,1,85.6,6.8,67.0,64.3,1,4,Low,Reading,Yes,83.1,1,Excellent,Low
+STU00608,19.0,Year 4,70.5,80.3,4.6,4,99.1,8.0,54.4,59.2,1,2,Medium, PRACTICE,Yes,66.3,1,Good,Low
+STU00672,23.0,Year 1,59.9,90.7,1.5,1,87.5,6.5,32.8,50.3,4,2,Low,Practice,Yes,42.1,1,average,Medium
+STU00374,20.0,Year 4,83.4,83.2,3.7,2,100.0,5.8,62.3,62.2,1,1,Low,Reading,Yes ,75.1,1,Excellent,Low 
+STU00992,22.0,Year 2,63.4,88.8,7.3,0,79.8,8.0,72.3,49.1,4,1,Low,Auditory,Yes,51.7,1,Average,medium
+STU00851,18.0,Year 1,77.8,83.7,9.3,2,63.3,7.7,75.2,64.9,2,2,Low,Auditory,Yes,69.1,1,Good,Low
+STU00234,18.0,Year 1,68.4,80.0,2.1,1,63.9,6.3,42.2,65.0,2,3,Low,Visual,Yes,54.6,1,Average,Medium
+STU00793,22.0,Year 3,84.3,85.9,7.0,4,87.6,6.5,,64.5,2,3,Medium,reading,Yes,78.4,1,Excellent,Low
+STU00677,24.0,Year 2,61.2,58.6,2.2,2,79.8,7.3,23.4,36.9,3,2,Low, READING,Yes,52.8,1,Average,Medium
+STU00318,20.0,Year 2,74.4,86.1,6.8,2,72.0,5.9,47.2,69.1,4,3,Low,Practice,Yes,66.3,1,Good,Low
+STU00649,24.0,Year 3,87.6,85.6,5.3,3,72.9,7.8,42.2,57.5,0,1,Medium,Auditory,Yes,68.0,1,Good,Low
+STU00411,21.0,Year 1,61.1,65.2,5.5,2,80.0,,57.8,49.8,1,4,Low,Reading,Yes,53.8,1,Average,Medium
+STU00907,21.0,Year 2,73.6,80.1,1.5,3,62.0,7.3,36.1,56.9,1,2,Medium,Practice,Yes,67.7,1,Good,Low
+STU00710,23.0,Year 1,51.1,72.3,8.1,3,84.8,8.3,39.9,54.7,1,2,Medium,Visual,Yes,55.0,1,Average,Low
+STU00359,22.0,Year 1,50.0,90.8,3.8,2,32.2,6.8,49.7,63.1,2,2,low,Practice,Yes,45.0,1, Average , Medium 
+STU00259,17.0,Year 4,74.6,93.1,4.4,1,70.3,4.2,64.3,48.9,4,1,Low,Auditory,Yes,72.1,1,Good,Low
+STU00745,18.0,Year 2,42.1,91.0,5.8,1,56.9,7.8,42.3,40.6,3,4,Low,practice,No,46.5,1,Average, Medium 
+STU00628,17.0,Year 2,82.4,100.0,8.1,4,78.1,7.8,61.1,70.1,1,3,Medium,Visual,Yes,84.8,1,Excellent,Low
+STU00633,24.0,Year 4,54.0,82.1,3.8,2,78.7,6.9,66.1,38.2,2,2,Low,Auditory,Yes,56.2,1,Average,Low
+STU00283,19.0,Year 1,97.4,90.2,4.1,3,97.9,6.7,65.0,63.0,3,3,Medium,Visual,Yes,87.7,1,Excellent, LOW
+STU00377,23.0,Year 1,61.1,69.8,6.6,2,77.9,7.0,44.1,44.4,1,5,Low,Practice,Yes,64.6,1,Good,Low
+STU00385,18.0,Year 2,49.2,67.4,6.4,2,73.8,8.3,46.7,67.7,1,2,Low,Reading,Yes,58.2,1,Average,Low
+STU00225,20.0,Year 2,81.3,92.7,7.7,2,87.5,8.1,69.9,79.1,2,1,Low ,Auditory,Yes,75.0,1,Excellent,Low
+STU00964,17.0,Year 3,71.0,66.4,15.4,3,85.0,5.1,49.8,81.7,2,3,Medium,practice, YES,75.0,1,Excellent,Low
+STU00823,18.0,Year 2,67.2,100.0,13.5,3,69.7,8.5,74.0,62.1,1,5,Medium,Visual,Yes,72.4,1,Good,Low
+STU00473,20.0,Year 3,57.3,89.5,5.2,2,64.8,6.2,49.6,61.3,4,2,Low,Reading,Yes,63.1,1,Good,Low
+STU00348,23.0,Year 3,64.4,95.5,4.5,2,67.7,5.2,44.8,59.6,1,2,Low,Reading,Yes,60.2,1,Good,Low
+STU00506,17.0,Year 4,72.6,100.0,3.4,2,77.9,8.5,55.1,47.5,2,3,Low,Practice,Yes,52.8,1,Average,Medium
+STU00640,23.0,Year 4,62.0,,7.0,3,62.5,5.6,32.3,37.2,2,3,Medium,Practice,Yes,42.3,1,Average,Medium
+STU00998,19.0,Year 1,66.4,74.6,8.6,2,84.6,8.5,66.7,62.7,0,3,low,Visual,Yes,62.0,1,Good,Low 
+STU00798,21.0,Year 1,75.2,77.8,15.5,3,99.8,5.9,76.7,64.5,0,2,Medium,Reading,Yes,93.8,1,Excellent,Low
+STU00937,23.0,Year 3,77.9,76.2,3.2,2,51.1,4.7,49.2,39.2,2,3,Low,Auditory,Yes,59.0,1, Average , LOW
+STU00914,18.0,Year 2,53.9,94.0,4.5,2,71.0,9.1,52.5,41.0,2,3,Low,Practice,Yes ,64.7,1,Good,Low
+STU00620,24.0,Year 1,71.7,91.8,6.6,2,88.8,7.6,67.4,81.0,2,3,Low,Visual,Yes,79.1,1,Excellent,Low
+STU00864,21.0,Year 4,55.8,50.5,8.9,1,90.4,7.7,79.7,44.4,2,1,Low,Auditory,Yes,62.6,1,Good,Low
+STU00812,19.0,Year 1,94.6,100.0,8.0,2,86.3,7.2,71.2,75.3,3,2,Low,Practice,Yes,77.6,1,Excellent,Low
+STU00646,17.0,Year 4,42.3,71.3,0.0,1,,6.5,36.2,,2,2,Low,Reading,Yes,38.1,0,Poor,High
+STU00855,22.0,Year 2,79.3,81.5,3.5,2,55.3,6.4,48.5,50.8,4,1,Low,Practice,Yes,51.4,1,Average,Medium
+STU00557,23.0,Year 4,98.0,90.1,7.7,1,74.7,7.4,82.3,62.4,2,1,Low,Auditory,Yes,89.8,1,Excellent,Low
+STU00968,18.0,Year 3,66.6,77.8,5.8,1,78.3,7.8,58.1,60.6,2,1,Low,Auditory,Yes,56.4,1,Average,low
+STU00578,20.0,Year 1,51.3,60.5,5.4,3,80.8,5.3,34.7,51.9,0,3,Medium,Auditory,Yes,46.9,1,Average,Medium
+STU00796,24.0,Year 1,59.7,76.6,5.1,2,80.6,7.2,67.1,67.3,1,2,Low,Practice,Yes,58.4,1,Average,Low
+STU00086,22.0,Year 4,79.2,84.6,4.3,0,33.8,9.0,49.1,61.5,4,4,Low,Practice,Yes,73.5,1,Good,Low
+STU00243,20.0,Year 1,89.6,100.0,11.8,4,80.9,7.3,71.1,72.6,3,1,Medium,Practice,Yes,84.4,1,Excellent, LOW
+STU00699,18.0,Year 1,56.4,96.0,7.1,2,69.8,7.5,49.9,55.9,3,1,Low,Visual,Yes,63.1,1,Good,Low
+STU00160,19.0,Year 1,49.4,88.7,4.5,2,71.0,7.0,47.4,48.0,1,4,Low,Practice ,Yes,54.7,1,Average,Medium
+STU00525,17.0,Year 2,86.0,68.0,3.8,4,90.9,6.1,58.7,69.3,3,3,MEDIUM,Practice,Yes,68.5,1,Good,Low
+STU00036,23.0,Year 2,59.3,97.5,8.7,2,68.3,6.3,63.2,62.1,5,2,Low,Practice,Yes,64.1,1,Good,Low
+STU00541,19.0,Year 1,54.5,57.1,5.6,1,67.3,7.4,35.0,53.3,2,3,Low,Auditory,Yes,38.2,0,Poor,High
+STU00171,17.0,Year 2,71.5,100.0,10.5,5,76.9,5.2,54.6,77.6,0,4,High,Practice,Yes,69.7,1,Good,Low
+STU00655,,Year 3,37.4,77.3,1.6,1,78.8,7.0,55.4,19.5,2,6,Low,Practice,Yes,37.2,0,Poor,High
+STU00899,23.0,Year 1,51.0,80.1,10.1,3,75.6,5.6,39.7,56.2,1,4,Medium,practice,Yes,57.8,1,Average,Low
+STU00866,17.0,Year 3,60.7,71.0,10.3,3,42.1,7.0,64.5,53.4,4,1,Medium,Visual,Yes,47.0,1,Average,Medium
+STU00856,17.0,Year 3,90.9,92.2,11.2,3,94.3,6.5,62.4,70.7,4,2,Medium,Practice, YES,84.4,1,Excellent,Low
+STU00953,24.0,Year 3,45.6,74.6,8.0,3,94.1,6.2,49.8,58.5,3,2,Medium,Visual,Yes,47.2,1,Average,Medium
+STU00734,18.0,Year 4,67.3,69.6,4.1,2,60.9,6.8,59.9,65.1,1,3,Low ,Auditory, YES,77.1,1,Excellent,Low
+STU00096,23.0,Year 3,67.7,83.2,1.5,1,88.3,6.8,69.1,53.3,2,4,Low,Reading,Yes,61.1,1,Good,Low
+STU00564,20.0,Year 1,72.4,93.0,9.0,1,83.7,6.1,67.3,59.3,0,3,Low , PRACTICE,Yes,63.3,1,Good,Low
+STU00241,18.0,Year 1,27.0,56.0,,1,,6.1,12.8,27.1,1,1,Low,Practice,Yes,48.7,1,Average,High
+STU00743,21.0,Year 2,46.6,61.8,0.8,1,75.9,9.0,24.5,42.8,0,1,Low,Practice,yes,32.6,0,Poor,High
+STU00575,23.0,Year 2,34.4,72.9,2.8,1,81.1,8.8,38.1,38.8,1,3,Low,Auditory,Yes,29.2,0,Poor,High
+STU00691,22.0,Year 1,89.3,100.0,5.0,2,80.8,7.7,65.0,74.4,2,4,Low,Practice,No,77.1,1,Excellent,Low
+STU00461,19.0,Year 3,78.0,59.9,-2.0,1,64.4,6.1,46.5,51.4,2,2,Low,practice,Yes,57.8,1,Average,Low
+STU00554,18.0,Year 4,46.9,55.5,10.4,2,77.4,5.5,44.0,49.5,2,1,Low,Practice,Yes,40.0,1,Average,Medium
+STU00887,24.0,Year 4,35.6,97.3,3.9,2,64.8,5.6,,44.4,2,2,Low,Practice,Yes,52.1,1,Average,Medium
+STU00207,18.0,Year 1,89.6,97.0,5.3,3,66.6,3.5,65.3,64.0,0,2, Medium ,Practice,Yes,58.7,1,Average,Low
+STU00393,21.0,Year 2,78.7,75.2,3.2,2,65.2,5.5,58.5,54.4,2,3,Low,Visual,Yes,62.9,1,Good,Low
+STU00795,17.0,Year 1,87.2,87.2,5.1,4,75.3,7.5,70.0,59.6,1,4,Medium,Reading,Yes,77.0,1,Excellent, LOW
+STU00398,19.0,Year 1,81.8,,7.0,2,47.6,4.3,59.0,85.9,2,2,Low,Practice,Yes,88.0,1,Excellent,Low
+STU00767,19.0,Year 3,81.5,93.4,10.8,3,95.7,7.0,67.8,65.5,0,3,Medium,Visual,Yes,84.3,1,Excellent,Low
+STU00884,17.0,Year 1,58.3,57.7,2.4,1,76.4,7.3,42.9,45.3,0,2,Low,Visual,Yes,46.6,1,Average,MEDIUM
+STU00218,24.0,Year 3,51.6,90.6,9.2,5,98.9,8.0,68.6,110.0,1,3,High,Reading,Yes,76.8,1,Excellent,Low
+STU00005,23.0,Year 3,64.1,67.8,7.8,2,93.6,8.3,66.2,66.5,3,2,Low,Visual,Yes,62.6,1,Good,Low
+STU00769,20.0,Year 3,85.8,85.4,4.6,2,90.3,7.7,76.6,73.4,2,2, LOW,Practice,Yes,78.3,1,Excellent,Low
+STU00643,18.0,Year 3,73.8,81.5,6.4,2,58.9,8.2,63.5,48.9,3,2, LOW,visual,Yes,66.1,1,Good,Low
+STU00906,23.0,Year 1,67.9,65.2,4.6,3,76.1,5.4,54.6,51.8,3,4,Medium,Reading,Yes,61.1,1,Good, LOW
+STU00613,18.0,Year 1,42.2,77.6,6.9,5,72.9,6.3,47.5,46.3,1,4,High,Practice ,Yes,51.3,1,Average,Medium
+STU00739,20.0,Year 2,71.7,78.7,4.1,1,65.8,7.5,42.3,54.9,4,5,Low,Visual,Yes,47.8,1,Average,Medium
+STU00547,23.0,Year 2,61.2,75.3,3.8,1,87.5,7.2,49.1,40.4,2,4,low,Practice,Yes,54.6,1,Average,MEDIUM
+STU00726,21.0,Year 1,81.2,94.1,9.0,5,86.0,6.5,67.1,74.3,1,1,High,Reading,Yes,86.0,1,Excellent,Low
+STU00684,23.0,Year 1,67.2,67.3,1.8,1,80.2,8.5,54.5,39.8,6,2,Low,Reading,Yes,67.2,1,Good,Low
+STU00099,23.0,Year 3,71.0,83.6,4.5,3,66.9,6.5,65.0,71.2,1,7,Medium,Practice,Yes,52.5,1,Average,Medium
+STU00805,18.0,Year 2,87.7,83.6,7.9,3,78.0,8.5,54.8,82.7,5,3,Medium,Practice,Yes,74.7,1,Good ,Low
+STU00728,17.0,Year 1,72.2,77.8,6.0,2,78.6,6.2,63.0,62.3,4,3,Low,Practice,No,56.6,1,Average, LOW
+STU00574,20.0,Year 4,33.4,79.1,2.6,2,61.5,8.3,44.0,53.1,4,1,Low,Visual,Yes,44.1,1,Average,Medium
+STU00407,19.0,Year 2,90.8,70.6,8.6,4,33.6,7.7,47.9,53.5,1,1,Medium,Practice,Yes,65.5,1,Good,Low
+STU00503,23.0,Year 4,61.8,69.9,,4,38.3,7.7,25.7,43.2,2,4,MEDIUM, AUDITORY, YES,32.3,0,Poor,High
+STU00048,21.0,Year 3,60.9,89.7,9.7,3,68.4,6.8,51.0,76.0,2,1,Medium,Visual,Yes,71.4,1,Good,Low
+STU00033,17.0,Year 2,,100.0,5.2,2,92.1,5.8,74.8,55.8,0,4,Low,Reading,No,76.8,1,Excellent,Low
+STU00780,17.0,Year 3,43.3,75.6,6.3,2,69.4,9.0,49.7,39.4,2,1,Low,Reading,Yes,52.3,1,Average,Medium
+STU00840,24.0,Year 1,76.1,99.3,7.2,2,80.1,6.8,54.4,62.4,3,2,Low,Practice,No,69.0,1,Good,Low
+STU00201,19.0,Year 4,85.0,96.1,1.0,1,29.6,7.5,50.8,64.6,2,2,Low,Practice,Yes,59.0,1,Average,low
+STU00135,20.0,Year 4,48.1,86.7,5.3,0,97.5,8.5,55.3,48.8,2,3,Low ,Reading,Yes,70.6,1, GOOD,Low
+STU00028,24.0,Year 2,79.8,93.4,3.1,2,54.6,7.4,67.7,63.3,1,2,Low,Visual,Yes,74.3,1,Good,Low
+STU00889,18.0,Year 3,72.4,93.7,11.7,3,89.8,9.6,50.6,78.0,3,4,Medium,Practice,Yes,73.8,1,Good, LOW
+STU00231,22.0,Year 4,93.5,74.2,15.3,6,74.1,7.0,62.9,56.2,0,1,High,Practice ,Yes ,79.0,1,Excellent,Low
+STU00490,19.0,Year 1,23.6,81.5,3.3,2,87.2,6.2,19.2,48.1,1,5,Low,Visual,Yes,48.2,1,Average,MEDIUM
+STU00773,18.0,Year 3,93.3,108.0,3.5,0,57.8,5.7,50.8,59.3,4,2,Low,Visual,Yes,74.1,1,Good,Low
+STU00379,24.0,Year 2,62.1,75.1,3.3,4,64.8,7.2,53.0,43.2,2,4,MEDIUM,Practice,Yes,51.9,1,Average,Medium
+STU00289,24.0,Year 4,61.6,79.9,7.0,2,63.7,5.9,70.8,45.1,0,3,low, AUDITORY,Yes ,71.0,1,Good,Low
+STU00419,19.0,Year 3,56.4,66.2,4.8,4,,5.8,69.9,60.2,7,3,Medium,Visual,Yes,57.0,1,Average,Low
+STU00675,24.0,Year 2,66.7,71.3,2.2,1,,5.4,58.7,57.7,2,3,Low,Practice,Yes,60.9,1,Good,Low
+STU00392,18.0,Year 3,74.8,85.1,7.1,2,,5.6,80.2,56.3,1,2,Low,Visual,No,64.5,1,Good,Low
+STU00593,21.0,Year 2,59.9,78.5,4.7,3,74.4,6.8,44.5,61.5,1,2,Medium,Visual,Yes,78.4,1,Excellent,Low
+STU00499,17.0,Year 4,60.2,93.8,2.5,1,60.4,7.9,48.7,66.5,4,2,Low,Practice,Yes,70.1,1,Good,Low
+STU00139,21.0,Year 1,68.4,82.7,4.8,2,31.1,7.8,54.2,51.5,3,3,Low,Visual,Yes,48.8,1,Average,Medium
+STU00063,18.0,Year 4,74.7,85.6,3.7,1,59.5,4.9,53.0,59.7,1,1,Low,Visual,Yes,52.1,1,Average,Medium
+STU00472,17.0,Year 4,87.6,71.2,8.1,2,84.5,6.5,52.3,78.1,1,1,Low,Practice,Yes,77.2,1,Excellent,Low
+STU00648,23.0,Year 4,51.0,64.8,,0,59.6,11.0,29.3,47.4,1,6,Low,Visual,Yes,48.1,1,Average,Medium
+STU00129,17.0,Year 1,70.6,79.5,9.8,4,75.6,6.4,61.6,75.3,1,1,Medium, PRACTICE,Yes ,65.1,1,Good,Low
+STU00987,22.0,Year 3,66.8,93.1,11.1,3,63.5,7.1,74.3,66.2,1,2,Medium,Visual,Yes,71.9,1,Good,Low
+STU00521,20.0,Year 3,71.3,58.6,5.5,4,80.9,8.6,41.9,38.8,2,1,Medium,Practice,Yes,48.8,1,Average,Medium
+STU00839,18.0,Year 2,51.6,74.1,12.6,5,62.6,6.6,50.0,59.8,0,3,High,Practice,Yes,61.4,1,Good,Low
+STU00973,21.0,Year 3,73.5,91.2,7.2,2,81.6,,73.7,66.0,5,3,Low,Practice,Yes,63.2,1,Good,Low
+STU00065,21.0,Year 3,53.6,85.1,7.7,2,57.4,6.1,51.5,62.4,4,3,Low,Practice,Yes,56.5,1,Average,Low
+STU00813,18.0,Year 2,39.3,88.7,0.9,3,72.4,7.7,48.5,,2,4,Medium,Practice,Yes,44.1,1,Average,Medium
+STU00015,22.0,Year 4,44.4,80.2,2.3,1,84.5,6.3,38.2,42.2,2,4,Low,Visual,No,46.8,1,Average,Medium
+STU00157,20.0,Year 1,70.4,70.1,13.4,5,44.1,7.3,52.5,82.5,0,1,High,Auditory,Yes,67.6,1,Good,Low
+STU00041,19.0,Year 4,63.5,87.8,3.3,2,85.9,6.5,51.2,47.9,3,4,Low,Reading ,Yes,57.1,1,Average,Low
+STU00493,24.0,Year 2,56.4,79.8,6.3,2,90.9,6.4,58.6,110.0,2,2,Low,Practice,Yes,56.1,1,Average,Low
+STU00380,22.0,Year 2,60.4,75.9,2.7,3,50.6,8.8,49.8,39.6,1,4,Medium,Auditory,No ,58.1,1,Average, LOW
+STU00188,19.0,Year 2,71.7,85.3,13.9,3,83.1,4.9,86.2,77.5,0,4,Medium,Auditory,Yes,94.4,1,Excellent,Low
+STU00764,17.0,Year 1,63.9,82.7,6.3,3,85.7,7.1,46.2,56.0,2,2, Medium ,Practice,Yes,67.7,1,Good,Low
+STU00217,20.0,Year 2,66.7,81.6,3.7,4,73.5,6.1,65.2,69.3,5,5,Medium,Practice,Yes,60.2,1, GOOD,Low
+STU00792,18.0,Year 3,72.4,81.7,6.9,4,78.2,6.7,43.1,67.5,2,4,Medium,Visual,Yes,57.7,1,Average,Low
+STU00053,19.0,Year 2,54.3,76.2,2.3,1,81.0,6.7,47.2,49.0,1,3,Low,Reading,No,42.4,1,Average,Medium
+STU00879,23.0,Year 1,74.7,67.8,9.8,4,69.1,4.9,37.2,72.4,1,4,Medium,Practice ,Yes,49.4,1,Average,Medium
+STU00338,23.0,Year 2,76.9,95.2,2.3,1,90.1,6.8,51.4,52.6,0,2,Low,Practice,Yes,69.0,1,Good,Low
+STU00749,20.0,Year 2,60.4,94.3,1.6,2,66.8,7.6,44.9,66.8,1,3,Low, READING,yes,56.2,1,average,Low
+STU00720,18.0,Year 2,56.4,74.2,2.1,2,22.3,,46.5,37.0,0,2,Low,Visual,Yes,47.2,1,AVERAGE,Medium
+STU00725,23.0,Year 4,86.5,99.5,,1,,5.4,74.9,78.3,1,2,Low,Visual,Yes,63.6,1,Good,Low
+STU00296,23.0,Year 1,60.7,61.5,0.5,0,74.8,7.6,22.6,21.5,4,4,Low,Practice,Yes,33.8,0,Poor,high
+STU00702,23.0,Year 4,70.0,100.0,5.9,2,73.0,6.9,65.5,59.9,0,5,Low,Auditory,Yes,78.3,1,Excellent,Low
+STU00252,21.0,Year 1,53.6,68.6,8.6,2,64.6,8.1,51.1,53.7,3,3,Low, VISUAL,Yes,52.9,1,Average,Medium
+STU00727,18.0,Year 3,85.3,87.7,8.7,3,48.3,6.2,68.4,69.9,1,4,Medium,Visual,Yes,85.3,1,Excellent,Low
+STU00462,18.0,Year 2,,74.2,14.6,5,85.6,7.9,66.4,61.7,0,4,High,Practice,Yes,75.2,1,Excellent, LOW
+STU00456,20.0,Year 4,51.9,94.8,5.4,1,56.3,9.3,51.6,65.0,1,4,Low,Practice,Yes,52.6,1,Average,Medium
+STU00627,24.0,Year 2,40.0,77.1,3.2,2,61.7,8.9,39.0,38.6,2,3,Low,Visual,Yes,34.8,0,Poor,High
+STU00816,17.0,Year 1,36.3,84.0,3.6,1,55.4,7.3,28.8,31.9,2,2,Low ,Visual,Yes,41.0,1, Average ,Medium
+STU00863,23.0,Year 2,47.9,83.0,3.7,2,79.4,5.4,,53.5,0,3,Low,Practice,Yes,55.7,1,Average,Low
+STU00270,24.0,Year 4,72.5,76.5,2.8,1,93.9,6.2,81.6,55.8,0,4,Low,Practice,Yes,73.0,1,Good,Low
+STU00202,17.0,Year 4,44.4,65.8,3.2,2,46.8,,14.6,28.4,1,4,Low,Auditory,Yes,27.1,0,Poor,High
+STU00162,18.0,Year 3,48.8,88.2,7.8,1,67.5,7.9,40.9,57.1,0,4,Low,Auditory,Yes,58.9,1,Average,low
+STU00556,17.0,Year 2,81.2,97.5,8.3,3,91.9,7.3,71.1,66.9,2,2,MEDIUM,Practice,Yes,74.4,1,Good,Low
+STU00730,20.0,Year 3,37.3,72.9,5.3,2,76.7,6.9,42.6,56.2,2,1,Low,Practice,Yes,52.8,1,Average,Medium
+STU00402,21.0,Year 1,42.9,100.0,3.7,2,79.9,8.1,35.6,41.8,1,2,Low,Visual, NO,38.6,0,Poor,High
+STU00703,18.0,Year 4,96.5,85.4,11.5,5,86.2,7.0,78.4,68.0,1,5,High,Auditory,No,87.7,1,Excellent,Low
+STU00477,21.0,Year 2,44.2,65.8,4.8,3,50.4,7.0,37.7,69.7,2,3,medium,Practice,yes,64.5,1,Good,Medium
+STU00822,23.0,Year 1,61.5,83.1,6.5,3,81.6,7.3,66.6,70.2,5,4,Medium,Reading,No,76.9,1,Excellent,Low
+STU00772,17.0,Year 3,,84.7,0.3,0,87.7,7.5,37.6,53.7,5,2,Low,Visual,yes,50.2,1,Average,Medium
+STU00106,19.0,Year 1,60.5,64.8,2.8,1,61.4,7.5,46.4,34.5,2,1,Low,Reading,Yes,44.8,1,Average,Medium
+STU00566,20.0,Year 4,57.1,82.1,6.9,2,,5.1,60.9,74.4,1,3,Low,Visual,Yes,77.9,1,Excellent,Low
+STU00390,23.0,Year 2,50.1,73.9,0.0,0,86.6,7.6,18.9,32.9,2,2,Low,Auditory,Yes,40.4,1,Average,Medium
+STU00002,17.0,Year 4,55.6,90.7,9.3,5,40.4,8.3,46.5,57.6,0,4,High,Practice,Yes,60.5,1,Good,low
+STU00946,17.0,Year 2,47.4,100.0,2.9,1,49.1,,58.8,50.3,2,3,Low,Visual,Yes,58.2,1,average,Low
+STU00993,18.0,Year 1,58.0,62.2,8.5,4,78.0,7.9,57.4,55.9,0,1,Medium,Visual,Yes,60.4,1,Good,Low
+STU00562,19.0,Year 1,86.4,92.4,7.3,3,84.7,4.9,66.9,68.7,4,1,Medium,Practice,Yes,77.7,1,Excellent,Low
+STU00081,23.0,Year 4,61.0,83.6,5.7,2,62.0,6.4,56.9,34.7,3,3,Low,Auditory,Yes,43.3,1,Average,Medium
+STU00206,23.0,Year 4,45.0,89.9,14.9,2,81.3,4.8,71.4,63.6,1,2,Low,Visual,Yes,70.3,1,Good,Low
+STU00035,24.0,Year 1,87.4,73.0,4.2,1,71.8,4.3,68.0,53.8,0,2,Low,Practice,Yes ,64.1,1,Good,Low
+STU00776,19.0,Year 1,52.8,77.1,1.2,0,66.5,7.6,46.3,28.8,0,3,Low,Practice,Yes,47.9,1,Average,Medium
+STU00509,20.0,Year 1,32.2,79.3,0.7,2,78.6,7.0,11.6,43.8,2,4,Low,Visual,Yes,38.4,0,Poor,High
+STU00428,20.0,Year 3,25.1,56.0,1.6,2,78.4,6.8,49.3,34.0,5,1, LOW,Visual ,Yes,21.9,0,Poor,High
+STU00455,23.0,Year 4,63.8,94.5,4.6,1,73.4,6.8,58.4,71.4,3,2,Low,Reading,No,68.0,1,Good,Low
+STU00367,19.0,Year 4,56.1,72.7,13.4,4,63.9,7.5,54.5,55.7,1,2,Medium, PRACTICE,Yes,59.2,1,Average,Low
+STU00092,,Year 1,39.3,75.0,5.1,3,63.4,7.5,49.4,52.4,4,3,Medium,Visual,Yes,46.9,1,Average,Medium
+STU00340,17.0,Year 3,52.9,56.0,2.5,3,85.6,6.7,31.2,21.6,1,3,Medium,Practice,Yes,42.7,1,Average,Medium
+STU00898,22.0,Year 1,82.5,81.0,3.7,2,97.8,7.0,82.1,47.6,3,5,Low,Reading,Yes,67.7,1,Good,Low
+STU00565,20.0,Year 2,95.0,83.3,3.6,1,98.0,6.8,61.9,71.7,4,2,Low,Practice,Yes,77.5,1,Excellent,Low
+STU00346,19.0,Year 3,60.5,97.6,2.6,1,90.8,6.6,78.0,52.9,0,1,Low,Practice, YES,76.5,1,Excellent,Low
+STU00777,21.0,Year 2,38.7,100.0,4.6,3,87.1,5.6,51.6,56.6,1,2,Medium,Visual,Yes,59.5,1,Average,Low
+STU00242,22.0,Year 1,58.6,84.1,8.3,1,66.7,5.3,115.0,56.2,3,2,Low,Practice, YES,58.3,1,Average,Low
+STU00014,24.0,Year 3,24.8,79.8,10.8,3,51.7,6.3,28.5,60.0,2,3,Medium,Reading,Yes,59.9,1,Average,Medium
+STU00316,17.0,Year 2,49.0,95.9,10.5,5,62.0,4.8,59.1,75.0,2,4,High,Reading,No,62.6,1,Good,Low
+STU00601,23.0,Year 3,68.8,77.0,2.9,1,82.3,,43.7,58.9,3,6,Low,Practice,Yes,76.3,1,Excellent,Low
+STU00388,24.0,Year 1,37.7,61.3,7.7,3,78.3,9.4,40.2,19.4,3,1,Medium,practice, YES,45.7,1,Average,Medium
+STU00274,20.0,Year 4,46.8,-5.0,1.0,1,51.0,8.3,31.2,34.6,3,3,Low,Practice,Yes,31.8,0,poor,High
+STU00167,19.0,Year 4,43.2,63.6,5.5,0,57.1,6.9,43.9,48.2,2,1,Low,Reading,Yes,48.2,1,Average,Medium
+STU00841,20.0,Year 1,52.6,78.2,5.2,0,95.1,7.8,29.7,62.4,3,4,Low,Practice,Yes,63.3,1,Good,Medium
+STU00741,18.0,Year 1,57.9,91.6,5.3,2,99.8,6.9,65.4,62.0,4,2,Low,Practice,No,68.2,1,Good,Low
+STU00647,21.0,Year 1,84.7,77.6,11.2,2,80.1,8.4,88.0,78.3,2,3,Low,Practice,Yes,76.7,1,Excellent,Low
+STU00819,18.0,Year 2,55.1,70.9,2.1,3,73.2,6.9,36.1,36.4,3,3,medium,Visual,Yes,52.6,1,Average,Medium
+STU00485,19.0,Year 3,61.2,74.1,3.6,1,66.5,4.8,26.2,70.8,2,2,Low,Practice,Yes,55.6,1,Average,Medium
+STU00991,20.0,Year 4,52.9,73.9,3.8,1,64.3,7.4,44.0,42.9,5,5,Low,Practice,Yes,54.2,1,Average,Medium
+STU00505,17.0,Year 1,45.6,,8.8,4,59.4,6.5,45.3,57.5,1,1,Medium,Auditory,Yes ,55.9,1,average,Low
+STU00832,23.0,Year 2,32.5,76.1,3.2,1,86.7,6.6,46.7,51.9,2,4,Low,Auditory,yes,40.0,1,Average,Medium
+STU00244,17.0,Year 4,35.3,95.2,6.2,1,58.5,7.6,60.6,60.4,1,3,Low, PRACTICE,Yes,57.3,1,Average,Low
+STU00567,23.0,Year 2,56.1,87.2,1.0,0,73.9,7.5,42.7,52.4,3,1,Low,Visual,Yes,48.8,1,Average,Medium
+STU00876,21.0,Year 1,47.2,71.8,2.2,1,44.2,7.6,23.0,41.4,1,3,Low,Practice ,yes,38.1,0,Poor,high
+STU00563,22.0,Year 2,47.8,60.5,1.5,0,57.6,7.1,39.3,38.4,2,1,Low,Practice,Yes,34.9,0,Poor,High
+STU00963,24.0,Year 1,78.5,86.1,12.4,2,23.3,7.1,55.3,68.0,1,2,Low,Practice,Yes,62.2,1,Good,Low
+STU00687,18.0,Year 3,62.7,83.2,5.8,2,70.2,6.1,49.5,52.8,1,2,Low,Practice,Yes,66.0,1,Good,Low
+STU00958,20.0,Year 1,76.7,97.6,8.1,4,62.3,8.3,59.2,65.8,2,4,Medium,Reading,Yes,76.7,1,Excellent,Low
+STU00190,21.0,Year 2,88.5,71.3,4.8,1,40.5,6.4,66.9,47.6,2,3,Low,Auditory,Yes ,74.9,1,Good,Low
+STU00783,23.0,Year 2,70.6,71.0,0.9,0,73.7,7.7,46.4,66.2,2,5,Low,Visual,Yes,64.1,1,Good,Low
+STU00700,17.0,Year 3,76.8,64.7,5.8,3,100.0,8.1,48.5,55.9,0,1,Medium,Auditory,Yes,77.4,1,Excellent, LOW
+STU00476,20.0,Year 1,74.7,83.0,4.4,1,96.7,,70.7,65.4,3,1, LOW,Reading,Yes,68.7,1,Good,Low
+STU00682,17.0,Year 4,,83.1,8.2,3,60.2,5.2,55.8,60.3,4,2,Medium,Visual,Yes,73.2,1,Good,Low
+STU00511,18.0,Year 1,79.0,77.7,7.7,2,44.4,6.5,65.8,50.9,2,3,Low,Auditory,Yes,70.1,1,Good,Low
+STU00059,20.0,Year 3,88.6,88.7,7.5,5,98.1,6.4,71.7,52.6,2,1,High,Visual,Yes,65.5,1,Good,Low
+STU00475,17.0,Year 1,61.5,90.7,3.1,1,40.7,7.7,54.1,67.3,1,1,Low,Reading,Yes,63.1,1,Good,Low
+STU00561,,Year 4,44.0,83.0,12.5,3,44.4,7.2,56.3,62.5,0,6,Medium,Reading,Yes,66.4,1,Good,Low
+STU00857,21.0,Year 2,75.2,70.3,0.9,1,66.1,8.3,60.6,63.1,2,3,Low ,Reading,yes,54.6,1,Average,Medium
+STU00748,23.0,Year 3,45.5,67.0,,0,70.4,9.0,42.7,39.6,3,2,Low,Auditory,Yes,36.0,0,Poor,High
+STU00253,18.0,Year 4,67.5,66.3,3.9,1,56.0,6.3,40.7,44.5,2,3,Low,Visual ,Yes,32.0,0,Poor,High
+STU00022,22.0,Year 2,80.5,56.2,5.3,1,61.7,7.5,51.6,55.0,1,3,Low,Practice,Yes,64.1,1,Good,Low
+STU00314,17.0,Year 1,74.2,57.6,2.7,0,83.8,7.3,44.7,55.4,3,3,Low,Practice,Yes,52.4,1,Average,MEDIUM
+STU00460,17.0,Year 3,62.6,100.0,4.3,2,86.1,6.4,115.0,56.3,5,4,Low,Visual,Yes,67.0,1,Good,Low
+STU00161,23.0,Year 1,57.7,67.0,6.8,3,84.0,6.4,50.1,63.9,0,4,MEDIUM,Practice,Yes ,61.8,1,Good,Low
+STU00277,18.0,Year 3,47.3,98.0,5.0,4,85.2,5.5,82.0,77.9,0,2,Medium,Reading,Yes,72.1,1,Good,Low
+STU00956,24.0,Year 2,63.1,65.0,9.5,3,59.7,7.9,40.3,36.0,2,2,Medium,Visual,Yes,54.0,1,Average,Medium
+STU00192,20.0,Year 4,68.6,100.0,8.5,3,84.9,6.9,75.2,67.4,1,2,Medium,Practice,Yes,79.9,1,Excellent,Low
+STU00386,24.0,Year 2,65.3,96.3,2.2,0,68.7,6.5,52.3,41.3,1,2,Low ,Visual,Yes,54.1,1, Average ,Medium
+STU00806,24.0,Year 2,71.0,,4.6,1,95.3,7.2,55.4,62.2,1,4,Low ,Practice,Yes,74.1,1,Good,Low
+STU00414,21.0,Year 2,39.1,75.3,5.8,4,79.4,7.0,35.5,31.6,2,3,Medium,Practice,Yes,33.7,0,Poor,High
+STU00492,19.0,Year 3,81.9,84.6,3.5,1,94.7,6.2,69.2,57.8,2,7,Low,Auditory,Yes,70.9,1,Good,Low
+STU00344,22.0,Year 4,55.7,73.1,1.8,1,76.3,,56.0,51.9,1,2,Low,Reading,Yes,56.8,1,Average,Low
+STU00770,24.0,Year 4,68.5,95.6,2.2,1,77.3,5.8,66.0,58.7,2,2, LOW,Visual,Yes,69.6,1,Good,Low
+STU00309,19.0,Year 2,86.7,84.1,3.7,1,89.2,4.7,56.5,62.6,1,2,low,Practice,Yes,60.6,1,Good,low
+STU00662,23.0,Year 1,53.4,85.9,1.9,1,,5.0,32.5,36.5,6,2,Low,Reading,Yes,39.5,0,Poor,High
+STU00131,22.0,Year 2,60.2,90.9,2.7,1,93.8,7.0,60.7,61.8,2,4,Low,Reading,Yes,63.5,1,Good,Low
+STU00664,20.0,Year 2,60.2,87.2,4.7,2,66.3,8.2,60.6,50.5,3,4,Low,Visual,Yes,58.7,1,Average,Low
+STU00872,24.0,Year 2,62.2,80.3,13.0,4,79.3,7.5,73.6,80.9,1,2,Medium,Auditory,No,77.7,1,Excellent,Low
+STU00100,18.0,Year 1,44.8,62.8,1.9,2,80.0,6.3,29.8,45.7,1,6,Low,Visual,Yes,45.0,1,Average,Medium
+STU00373,17.0,Year 4,72.5,97.7,3.9,1,92.7,7.7,47.4,66.5,3,4,Low,Visual,Yes,73.3,1,Good,Low
+STU00088,22.0,Year 2,64.0,83.2,1.7,1,80.2,6.2,47.9,48.8,5,1,Low,Visual,Yes,61.3,1,Good,Low
+STU00459,20.0,Year 4,56.3,59.6,3.6,1,46.9,8.2,43.5,35.8,2,3,Low,Practice,No,49.4,1,Average,Medium
+STU00331,17.0,Year 2,69.8,68.1,4.0,1,31.0,6.9,69.6,60.8,2,3,Low,Visual ,No,63.5,1,Good,Low
+STU00215,17.0,Year 2,47.9,79.2,1.5,2,76.3,7.0,,46.8,1,2,Low,Practice,Yes,54.3,1, Average ,Medium
+STU00467,19.0,Year 3,62.0,73.3,7.0,3,42.2,7.7,32.0,,4,2,Medium,Practice,Yes,53.4,1,AVERAGE,Medium
+STU00122,24.0,Year 2,68.2,64.7,2.4,2,88.7,5.3,54.4,34.8,0,3,Low,Practice,Yes,61.3,1,Good, LOW
+STU00615,17.0,Year 1,88.1,89.7,4.4,3,68.8,8.7,66.2,62.1,2,4,Medium,Visual,No,70.7,1,Good,Low
+STU00021,19.0,Year 1,55.8,95.3,,3,84.7,7.1,63.6,64.2,1,4,Medium,Practice,Yes,68.4,1,Good,Low
+STU00701,24.0,Year 1,83.3,87.9,4.5,2,80.0,5.5,70.0,73.0,5,3,Low,Reading,Yes,72.1,1,Good,Low
+STU00072,22.0,Year 2,82.1,78.3,0.8,0,66.8,6.8,49.9,43.6,3,3,Low,Visual,Yes,54.6,1,Average,Medium
+STU00107,23.0,Year 4,55.9,91.4,3.7,2,86.3,7.3,22.3,59.8,1,4,Low,Practice,No ,59.3,1,Average,Low
+STU00271,19.0,Year 3,73.2,96.0,3.1,1,96.9,6.2,65.9,68.5,2,3,Low,Auditory,Yes,77.5,1,Excellent,Low
+STU00861,18.0,Year 4,68.8,82.1,10.4,3,53.9,5.4,36.3,42.8,1,1,Medium,Visual,Yes,59.2,1,Average,Low
+STU00436,21.0,Year 1,84.1,100.0,7.5,3,90.1,7.9,85.5,64.3,0,2,Medium,Reading,Yes,76.5,1,Excellent,Low
+STU00103,18.0,Year 3,,77.7,4.2,2,89.2,7.3,55.5,66.8,2,2,Low, AUDITORY,Yes,55.8,1,Average,Low
